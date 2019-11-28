@@ -133,46 +133,129 @@ subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b05
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
+ticketsTitle: "Student Registration"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
   name: "Student Early Bird Registration"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
+  price: "200"
+  priceCurrency: "TL"
+  ticketsNumber: "100"
   ribbon: "-5%"
   buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Register Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  validFrom: "2019-12-01T10:00"
+  validThrough: "2020-06-30T23:59"
  -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
+  name: "Student Early Bird Registration + Dormitory Accomodation"
+  price: "500"
+  priceCurrency: "TL"
   ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
+  ribbon: "-5%"
   buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Register Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
+  validFrom: "2019-12-01T10:00"
+  validThrough: "2020-06-30T23:59"
  -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
+  name: "Student Late Registration"
+  price: "300"
+  priceCurrency: "TL"
+  ticketsNumber: "100"
+  ribbon: "-5%"
   buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  buyButtonText: "Register Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+  validFrom: "2019-12-01T10:00"
+  validThrough: "2020-08-15T23:59"
+ -
+  name: "Student Late Registration + Dormitory Accomodation"
+  price: "600"
+  priceCurrency: "TL"
+  ticketsNumber: "100"
+  ribbon: "-5%"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Register Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2019-12-01T10:00"
+  validThrough: "2020-08-15T23:59"
+
+academicsTitle: "Academic Registration"
+academicsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+academics:
+ -
+  name: "Academic Early Bird Registration"
+  price: "400"
+  priceCurrency: "TL"
+  ticketsNumber: "100"
+  ribbon: "-5%"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Register Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2019-12-01T10:00"
+  validThrough: "2020-06-30T23:59"
+ -
+  name: "Academic Early Bird Registration + Dormitory Accomodation"
+  price: "700"
+  priceCurrency: "TL"
+  ticketsNumber: "100"
+  ribbon: "-5%"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Register Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2019-12-01T10:00"
+  validThrough: "2020-06-30T23:59"
+ -
+  name: "Academic Late Registration"
+  price: "600"
+  priceCurrency: "TL"
+  ticketsNumber: "100"
+  ribbon: "-5%"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Register Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2019-12-01T10:00"
+  validThrough: "2020-08-15T23:59"
+ -
+  name: "Academic Late Registration + Dormitory Accomodation"
+  price: "900"
+  priceCurrency: "TL"
+  ticketsNumber: "20"
+  ribbon: "-5%"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Register Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2019-12-01T10:00"
+  validThrough: "2020-08-15T23:59"
+
+
+corporateTitle: "Corporate Registration"
+corporateInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+corporate:
+ -
+  name: "Corporate Early Bird Registration"
+  price: "400"
+  priceCurrency: "TL"
+  ticketsNumber: "100"
+  ribbon: "-5%"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Register Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2019-12-01T10:00"
+  validThrough: "2020-06-30T23:59"
+ -
+  name: "Corporate Late Registration"
+  price: "600"
+  priceCurrency: "TL"
+  ticketsNumber: "100"
+  ribbon: "-5%"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Register Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2019-12-01T10:00"
+  validThrough: "2020-08-15T23:59"
+ 
 
 # Footer
 socialLinks:
