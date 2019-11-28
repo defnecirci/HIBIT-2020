@@ -11,10 +11,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "HIBIT 2020"
-email: "tgezer@sabanciuniv.edu"
+email: "hibit2020@gmail.com"
 description: "HIBIT 2020"
 baseurl: "/HIBIT-2020"
-url: "https://hibit-symposium.github.io"
+url: "https://hibit.netlify.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
