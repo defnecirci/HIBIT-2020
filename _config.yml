@@ -137,7 +137,7 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Early Bird"
+  name: "Student Early Bird Registration"
   price: "350"
   priceCurrency: "UAH"
   ticketsNumber: "150"
