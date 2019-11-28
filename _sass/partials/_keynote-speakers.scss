@@ -1,7 +1,7 @@
-$rockstar-image-size: 140px;
-$small-rockstar-image-size: 120px;
+$keynote-image-size: 140px;
+$small-keynote-image-size: 120px;
 
-.rockstar-speakers {
+.keynote-speakers {
     .name {
         font-size: 26px;
         line-height: 1.1;
@@ -19,15 +19,15 @@ $small-rockstar-image-size: 120px;
         }
     }
 }
-.rockstar-speaker {
+.keynote-speaker {
     padding-bottom: 13px;
 }
-.rockstar-speaker-img {
-    width: $rockstar-image-size;
-    height: $rockstar-image-size;
+.keynote-speaker-img {
+    width: $keynote-image-size;
+    height: $keynote-image-size;
     margin: 0 auto;
     @media (max-width: 767px) {
-        width: $small-rockstar-image-size;
-        height: $small-rockstar-image-size;
+        width: $small-keynote-image-size;
+        height: $small-keynote-image-size;
     }
 }

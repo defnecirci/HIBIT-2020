@@ -85,24 +85,24 @@ layout: compress
                         });
                     }
                 });
-                var rockstarSpeakers = [
+                var keynoteSpeakers = [
                     {% for speaker in site.data.speakers %}
-                        {% if speaker.rockstar %}
+                        {% if speaker.keynote %}
                         {name: "{{ speaker.name }} {{ speaker.surname }}", company: "{{ speaker.company }}", image: "{{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }}"}{% if forloop.index != forloop.length %},{% endif %}
                         {% endif %}
                     {% endfor %}
                 ];
-                rockstarSpeakers.sort(function() {return 0.5 - Math.random()});
-                if(rockstarSpeakers.length > 0) {
+                keynoteSpeakers.sort(function() {return 0.5 - Math.random()});
+                if(keynoteSpeakers.length > 0) {
                     var animationDelay = 1500,
-                        count = Math.min({{ site.rockstarSpeakersCount }}, rockstarSpeakers.length),
+                        count = Math.min({{ site.keynoteSpeakersCount }}, keynoteSpeakers.length),
                         colWidth = 12/count;
                     for(i=0; i<count; i++) {
                         var clearfix = '<div class="clearfix visible-xs"></div>';
                         if ((i)%2 != 0) {
                             clearfix = ""
                         }
-                        $('#rockstar-speaker-title').after('<div class="col-md-'+ colWidth +' col-xs-6 rockstar-speakers-item animated hiding" data-animation="fadeInUp" data-delay="' + animationDelay +'"><div class="rockstar-speaker"><div class="flow-img img-circle rockstar-speaker-img" style="background-image: url(' + rockstarSpeakers[i].image + ')"></div><div class="name">' + rockstarSpeakers[i].name + '</div><div class="sub">' + rockstarSpeakers[i].company + '</div></div></div>' + clearfix);
+                        $('#keynote-speaker-title').after('<div class="col-md-'+ colWidth +' col-xs-6 keynote-speakers-item animated hiding" data-animation="fadeInUp" data-delay="' + animationDelay +'"><div class="keynote-speaker"><div class="flow-img img-circle keynote-speaker-img" style="background-image: url(' + keynoteSpeakers[i].image + ')"></div><div class="name">' + keynoteSpeakers[i].name + '</div><div class="sub">' + keynoteSpeakers[i].company + '</div></div></div>' + clearfix);
                         animationDelay -= 500;
                     }
                 }

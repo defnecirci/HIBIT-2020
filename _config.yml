@@ -50,22 +50,22 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Submit Abstract"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Submit Abstract"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
+heroTitle: "HIBIT <typeout> 2020"
+eventDate: "3-5 September, 2020"
+typeoutTextValues: '"", "Season", "Istanbul", "Turkey"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Submit Abstract"}
+ - {permalink: "/#tickets", text: "Register"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About HIBIT"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
@@ -74,19 +74,21 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "300", prefix: "~", specialCharacter: "", info: "expected attendees", detail: "from everywhere"}
+ - {count: "3", prefix: "", specialCharacter: "", info: "days", detail: "of solid science"}
+ - {count: "3", prefix: "", specialCharacter: "", info: "keynote speakers", detail: "from USA and Europe"}
+ - {count: "8", prefix: ">", specialCharacter: "", info: "invited speakers", detail: ""}
+ - {count: "10", prefix: "~", specialCharacter: "", info: "selected talks", detail: ""}
+ - {count: "100", prefix: "~", specialCharacter: "", info: "posters", detail: ""}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
 
-# Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+# Keynote Speakers Block
+keynoteSpeakersImage: "keynote-speakers.jpg"
+keynoteSpeakersCount: 4
+keynoteSpeakersTitle: "Keynote speakers"
+keynoteSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
@@ -258,7 +260,7 @@ enableHackathon: true
 aboutHackathonTitle: "Meet our themes"
 hackathonRows:
  - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
- - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
+ - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Keynote Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
  - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
 
 # Hackathon Judges Block
