@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "HIBIT 2020"
 email: "hibit2020@gmail.com"
 description: "HIBIT 2020"
-baseurl: "/HIBIT-2020"
+baseurl: ""
 url: "https://hibit.netlify.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
