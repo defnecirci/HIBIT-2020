@@ -7,10 +7,13 @@
             {% assign heroText = site.heroTitle | split:"<typeout>" %}
             <h2><b>{{ heroText[0] }}<span id="typeout-text2" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</b></h2>
             <h3>{{ site.eventDate }}</h3>
-            {% for button in site.heroButtons %}
-            <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
-            {% endfor %}
-        </div>
+            <p>
+
+                {% for button in site.heroButtons %}
+                <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
+                {% endfor %}
+            </p>
+            </div>
     </div>
 
     <div class="jumbotron">

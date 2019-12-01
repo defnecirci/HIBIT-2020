@@ -7,10 +7,11 @@
     user-select: none;
     text-transform: uppercase;
     border: 0;
-    background: $primary-color !important;
+    // background: $primary-color !important;
+    background-color:rgba(24, 104, 253, 0.3);
     &:hover, &:focus, &:active, &.active {
         outline: none;
         color: #fff;
-        background: $primary-color-hover;
+        background: rgba(24, 104, 253, 0.9);
     }
 }
