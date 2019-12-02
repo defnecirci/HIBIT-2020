@@ -108,11 +108,14 @@ mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
+venueBigImage: "sgm_in1.jpg"
+venueSmallImage1: "sgm_in2.jpg"
+venueSmallImage2: "sgm_in3.jpg"
+venueSmallImage3: "sgm_hall1.jpg"
+venueSmallImage4: "sgm_hall2.jpg"
+venueSmallImage5: "sgm_out1.jpg"
+venueSmallImage6: "sgm_out2.jpg"
+venueTitle: "Sabancı University Performing Arts Center (SGM)"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
