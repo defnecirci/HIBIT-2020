@@ -116,7 +116,7 @@ venueSmallImage4: "sgm_hall2.jpg"
 venueSmallImage5: "sgm_out1.jpg"
 venueSmallImage6: "sgm_out2.jpg"
 venueTitle: "Sabancı University Performing Arts Center (SGM)"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueFeatures: ["In the Sabanci University campus", "Within walking distance to cafeteria and dormitories", "Large capacity"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
