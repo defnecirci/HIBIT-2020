@@ -119,7 +119,7 @@ venueTitle: "Sabancı University Performing Arts Center (SGM)"
 venueFeatures: ["In the Sabanci University campus", "Within walking distance to cafeteria and dormitories", "Large capacity"]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedImage: "handsup.jpg"
 tweetsFeedTitle: "Stay tuned"
 twitterHashTag: "HIBIT2020"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
