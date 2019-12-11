@@ -89,7 +89,7 @@ Quick-start guide is not enough? Checkout [full documentation](https://github.co
 * [Sticky-kit](https://github.com/leafo/sticky-kit)
 
 ### Who is using template?
-Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.org.ua*](mailto:lviv@gdg.org.ua) so we can include you to this list, or make a pull request.
+Going to use template? Go on! The only thing we ask - let us know at [*hibit2020@gmail.com*](mailto:hibit2020@gmail.com) so we can include you to this list, or make a pull request.
 
 | | | |
 |------|------|------|
