@@ -64,12 +64,12 @@ heroButtons:
 # About Block
 aboutTitle: "About HIBIT"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "13th The International Symposium on Health Informatics and Bioinformatics", image: "conference.jpg", text: "The International Symposium on Health Informatics and Bioinformatics, (HIBIT), now in its thirteenth year HIBIT 2020, aims to bring together academics, researchers and practitioners who work in these popular and fulfilling areas and to create the much-needed synergy among medical, biological and information technology sectors. HIBIT is one of the few conferences emphasizing such synergy. HIBIT provides a forum for discussion, exploration and development of both theoretical and practical aspects of health informatics and bioinformatics and a chance to follow current research in this area by networking with other bioinformatician." }
+#  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+#  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
-statisticBlockImage: "statistic.jpg"
+statisticBlockImage: "library.jpg"
 statisticBlock:
  - {count: "300", prefix: "~", specialCharacter: "", info: "expected attendees", detail: "from everywhere"}
  - {count: "3", prefix: "", specialCharacter: "", info: "days", detail: "of solid science"}
