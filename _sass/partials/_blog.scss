@@ -13,14 +13,17 @@
         margin-bottom: 26px;
     }
     li {
-        font-size: 15px;
+        font-size: 18px;
         line-height: 26px;
+    }
+    p {
+        font-size: 18px;
     }
 }
 .post-header {
     height: 20px;
     margin-top: 20px;
-    font-size: 14px;
+    font-size: 18px;
     .published {
         padding: 0;
         font-weight: $bold;
@@ -46,6 +49,9 @@
     iframe, img {
         display: block;
         margin: 16px 0;
+    }
+    p {
+        font-size: 18px;
     }
 }
 .page-navigation {
