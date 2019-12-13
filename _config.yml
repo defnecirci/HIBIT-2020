@@ -134,7 +134,7 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Student Registration"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: "Registration grants access to conference section, coffee brakes, lunch and gala dinner. On-campus accommodation at student dormitories is included with the [registration + accomodation] fee. The rooms are shared by two students. Roommate arrangements can be made upon request."
 ticketsOffers:
  -
   name: "Student Early Bird Registration"
@@ -182,7 +182,7 @@ ticketsOffers:
   validThrough: "2020-08-15T23:59"
 
 academicsTitle: "Academic Registration"
-academicsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+academicsInfo: "Registration grants access to conference section, coffee brakes, lunch and gala dinner. On-campus accommodation at student dormitories is included with the registration + accomodation option. Academics will have an option to choose single or double room."
 academics:
  -
   name: "Academic Early Bird Registration"
@@ -231,7 +231,7 @@ academics:
 
 
 corporateTitle: "Corporate Registration"
-corporateInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+corporateInfo: "Registration grants access to conference section, coffee brakes, lunch and gala dinner. Accomodation os NOT included in the registration fee."
 corporate:
  -
   name: "Corporate Early Bird Registration"
