@@ -134,7 +134,7 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Student Registration"
-ticketsInfo: "Registration grants access to conference section, coffee brakes, lunch and gala dinner. On-campus accommodation at student dormitories is included with the [registration + accomodation] fee. The rooms are shared by two students. Roommate arrangements can be made upon request."
+ticketsInfo: "Registration grants access to conference section, coffee brakes, lunch and gala dinner. On-campus accommodation at student dormitories is included with the [registration + accommodation] fee. The rooms are shared by two students. Roommate arrangements can be made upon request."
 ticketsOffers:
  -
   name: "Student Early Bird Registration"
@@ -148,7 +148,7 @@ ticketsOffers:
   validFrom: "2019-12-01T10:00"
   validThrough: "2020-06-30T23:59"
  -
-  name: "Student Early Bird Registration + Dormitory Accomodation"
+  name: "Student Early Bird Registration + Dormitory Accommodation"
   price: "650"
   priceCurrency: "TL"
   ticketsNumber: "100"
@@ -170,7 +170,7 @@ ticketsOffers:
   validFrom: "2019-12-01T10:00"
   validThrough: "2020-08-15T23:59"
  -
-  name: "Student Late Registration + Dormitory Accomodation"
+  name: "Student Late Registration + Dormitory Accommodation"
   price: "750"
   priceCurrency: "TL"
   ticketsNumber: "100"
@@ -182,7 +182,7 @@ ticketsOffers:
   validThrough: "2020-08-15T23:59"
 
 academicsTitle: "Academic Registration"
-academicsInfo: "Registration grants access to conference section, coffee brakes, lunch and gala dinner. On-campus accommodation at student dormitories is included with the registration + accomodation option. Academics will have an option to choose single or double room."
+academicsInfo: "Registration grants access to conference section, coffee brakes, lunch and gala dinner. On-campus accommodation at student dormitories is included with the registration + accommodation option. Academics will have an option to choose single or double room."
 academics:
  -
   name: "Academic Early Bird Registration"
@@ -196,7 +196,7 @@ academics:
   validFrom: "2019-12-01T10:00"
   validThrough: "2020-06-30T23:59"
  -
-  name: "Academic Early Bird Registration + Dormitory Accomodation"
+  name: "Academic Early Bird Registration + Dormitory Accommodation"
   price: "800"
   priceCurrency: "TL"
   ticketsNumber: "100"
@@ -218,7 +218,7 @@ academics:
   validFrom: "2019-12-01T10:00"
   validThrough: "2020-08-15T23:59"
  -
-  name: "Academic Late Registration + Dormitory Accomodation"
+  name: "Academic Late Registration + Dormitory Accommodation"
   price: "950"
   priceCurrency: "TL"
   ticketsNumber: "20"
@@ -231,7 +231,7 @@ academics:
 
 
 corporateTitle: "Corporate Registration"
-corporateInfo: "Registration grants access to conference section, coffee brakes, lunch and gala dinner. Accomodation os NOT included in the registration fee."
+corporateInfo: "Registration grants access to conference section, coffee brakes, lunch and gala dinner. Accommodation os NOT included in the registration fee."
 corporate:
  -
   name: "Corporate Registration"
