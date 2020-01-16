@@ -1,0 +1,50 @@
+<!-- Begin Direction Details-->
+<section id="direction-details" class="direction-details">
+    <div class="content-wrapper">
+
+        <section class="image-section standart-height"
+            style="background-image: url('{{ site.baseurl }}/img/sections-background/{{ site.directionDetailsImage }}');">
+            <h3>{{ site.posterListTitle }}</h3>
+        </section>
+        <div class="row">
+            <div class="col-lg-10 col-lg-offset-1 text-left">
+                {% assign animationDelay = 0 %}
+                {% for card in site.posterCards %}
+                {% assign colWidth = 4  %}
+                <div class="col-md-{{ colWidth }} col-xs-12 same-height animated hiding box" data-animation="fadeInDown"
+                    data-delay="{{ animationDelay }}">
+                    <div class="card">
+                        <h4>{{ card.title }}</h4>
+                        <p>{{ card.authors }}</p>
+                        <a class="trigger_popup_fricc" id="abs-open{{ forloop.index }}">Abstract</a>
+                    </div>
+                </div>
+                {% assign animationDelay = animationDelay  %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    {% for card in site.posterCards %}
+    <div class="hover_bkgr_fricc" id="abstract-{{ forloop.index }}">
+        <span class="helper"></span>
+        <div>
+            <div class="popupCloseButton" id="abs-close{{forloop.index}}">&times;</div>
+            <p>{{ card.abstract }}</p>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        $("#abs-open{{ forloop.index }}").click(function () {
+            $('#abstract-{{ forloop.index }}').show();
+        });
+        $("#abstract-{{forloop.index}}").click(function () {
+            $('#abstract-{{ forloop.index }}').hide();
+        });
+        $("#abs-close{{forloop.index}}").click(function () {
+            $('#abstract-{{ forloop.index }}').hide();
+        });
+
+    </script>
+    {% endfor %}
+</section>
+<!-- End Direction Details -->
