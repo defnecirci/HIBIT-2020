@@ -295,10 +295,10 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "ist2.jpg"
 directionDetailsTitle: "Coming to the campus"
 directionDetailsCards:
- - {title: "From Istanbul Airport", information: 'Istanbul Airport is far away from the campus and city centres. There is a shuttle service from Ist. Airport to various central locations. Information is listed <a href="https://hava.ist/en">here.</a> If you are coming directly to campus, the most hassle free way is taking the shuttle to Sabiha Gokcen Airport and taking a taxi ride.'}
+ - {title: "From Istanbul Airport", information: 'Istanbul Airport is far away from the campus and city centres. There is a shuttle service from Ist. Airport to various central locations. Information is listed <a href="https://hava.ist/en" target="_blank">here.</a> If you are coming directly to campus, the most hassle free way is taking the shuttle to Sabiha Gokcen Airport and taking a taxi ride.'}
  - {title: "From Sabiha Gokcen Airport", information: 'Because Sabancı University is very close to the airport and there is no direct or useful indirect public transportation, we kindly recommend you to take a taxi. It takes about 20 minutes.'}
- - {title: "In-city transit", information: 'There is a regular shuttle service from Kadıköy and Levent (central locations in European and Asian sides). On these shuttles, it is written Gürsel in big letters. For the timetable please click <a href="http://www.sabanciuniv.edu/en/transportation/shuttle-hours">here.</a>'}
- - {title: "Hotels", information: 'Closest hotel to the campus is <a href="http://www.cpistanbulasia.com/">Crowne Plaza Hotel.</a>'}
+ - {title: "In-city transit", information: 'There is a regular shuttle service from Kadıköy and Levent (central locations in European and Asian sides). On these shuttles, it is written Gürsel in big letters. For the timetable please click <a href="http://www.sabanciuniv.edu/en/transportation/shuttle-hours" target="_blank">here.</a>'}
+ - {title: "Hotels", information: 'Closest hotel to the campus is <a href="http://www.cpistanbulasia.com/" target="_blank">Crowne Plaza Hotel.</a>'}
 #directionDetailsWideCards:
 # -
 #  title: "Questions?"
