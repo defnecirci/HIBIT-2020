@@ -134,11 +134,11 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Student Registration"
-ticketsInfo: "Registration grants access to conference section, coffee brakes, lunch and gala dinner. On-campus accommodation at student dormitories is included with the [registration + accomodation] fee. The rooms are shared by two students. Roommate arrangements can be made upon request."
+ticketsInfo: "Registration grants access to conference section, coffee brakes, lunch and gala dinner. On-campus accommodation at student dormitories is included with the [registration + accommodation] fee. The rooms are shared by two students. Roommate arrangements can be made upon request."
 ticketsOffers:
  -
   name: "Student Early Bird Registration"
-  price: "200"
+  price: "350"
   priceCurrency: "TL"
   ticketsNumber: "100"
   ribbon: "-5%"
@@ -148,8 +148,8 @@ ticketsOffers:
   validFrom: "2019-12-01T10:00"
   validThrough: "2020-06-30T23:59"
  -
-  name: "Student Early Bird Registration + Dormitory Accomodation"
-  price: "500"
+  name: "Student Early Bird Registration + Dormitory Accommodation"
+  price: "650"
   priceCurrency: "TL"
   ticketsNumber: "100"
   ribbon: "-5%"
@@ -160,7 +160,7 @@ ticketsOffers:
   validThrough: "2020-06-30T23:59"
  -
   name: "Student Late Registration"
-  price: "300"
+  price: "450"
   priceCurrency: "TL"
   ticketsNumber: "100"
   ribbon: "-5%"
@@ -170,8 +170,8 @@ ticketsOffers:
   validFrom: "2019-12-01T10:00"
   validThrough: "2020-08-15T23:59"
  -
-  name: "Student Late Registration + Dormitory Accomodation"
-  price: "600"
+  name: "Student Late Registration + Dormitory Accommodation"
+  price: "750"
   priceCurrency: "TL"
   ticketsNumber: "100"
   ribbon: "-5%"
@@ -182,11 +182,11 @@ ticketsOffers:
   validThrough: "2020-08-15T23:59"
 
 academicsTitle: "Academic Registration"
-academicsInfo: "Registration grants access to conference section, coffee brakes, lunch and gala dinner. On-campus accommodation at student dormitories is included with the registration + accomodation option. Academics will have an option to choose single or double room."
+academicsInfo: "Registration grants access to conference section, coffee brakes, lunch and gala dinner. On-campus accommodation at student dormitories is included with the registration + accommodation option. Academics will have an option to choose single or double room."
 academics:
  -
   name: "Academic Early Bird Registration"
-  price: "400"
+  price: "500"
   priceCurrency: "TL"
   ticketsNumber: "100"
   ribbon: "-5%"
@@ -196,8 +196,8 @@ academics:
   validFrom: "2019-12-01T10:00"
   validThrough: "2020-06-30T23:59"
  -
-  name: "Academic Early Bird Registration + Dormitory Accomodation"
-  price: "700"
+  name: "Academic Early Bird Registration + Dormitory Accommodation"
+  price: "800"
   priceCurrency: "TL"
   ticketsNumber: "100"
   ribbon: "-5%"
@@ -208,7 +208,7 @@ academics:
   validThrough: "2020-06-30T23:59"
  -
   name: "Academic Late Registration"
-  price: "600"
+  price: "650"
   priceCurrency: "TL"
   ticketsNumber: "100"
   ribbon: "-5%"
@@ -218,8 +218,8 @@ academics:
   validFrom: "2019-12-01T10:00"
   validThrough: "2020-08-15T23:59"
  -
-  name: "Academic Late Registration + Dormitory Accomodation"
-  price: "900"
+  name: "Academic Late Registration + Dormitory Accommodation"
+  price: "950"
   priceCurrency: "TL"
   ticketsNumber: "20"
   ribbon: "-5%"
@@ -231,22 +231,11 @@ academics:
 
 
 corporateTitle: "Corporate Registration"
-corporateInfo: "Registration grants access to conference section, coffee brakes, lunch and gala dinner. Accomodation os NOT included in the registration fee."
+corporateInfo: "Registration grants access to conference section, coffee brakes, lunch and gala dinner. Accommodation os NOT included in the registration fee."
 corporate:
  -
-  name: "Corporate Early Bird Registration"
-  price: "400"
-  priceCurrency: "TL"
-  ticketsNumber: "100"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Register Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2019-12-01T10:00"
-  validThrough: "2020-06-30T23:59"
- -
-  name: "Corporate Late Registration"
-  price: "600"
+  name: "Corporate Registration"
+  price: "800"
   priceCurrency: "TL"
   ticketsNumber: "100"
   ribbon: "-5%"
@@ -255,7 +244,7 @@ corporate:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2019-12-01T10:00"
   validThrough: "2020-08-15T23:59"
- 
+
 
 # Footer
 socialLinks:
