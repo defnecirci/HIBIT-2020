@@ -293,12 +293,12 @@ directionDetailsCards:
 # Poster list Block
 posterListTitle: "Posters at HIBIT 2020"
 posterCards:
- - {title: "Lorem ipsum article title dolor sit amet", authors: "Oznur Tastan, Ogun Adebali, Tuvan Gezer", abstract: 'Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract '}
- - {title: "Lorem ipsum article title dolor sit amet", authors: "Oznur Tastan, Ogun Adebali, Tuvan Gezer", abstract: 'Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract '}
- - {title: "Lorem ipsum article title dolor sit amet", authors: "Oznur Tastan, Ogun Adebali, Tuvan Gezer", abstract: 'Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract '}
- - {title: "Lorem ipsum article title dolor sit amet", authors: "Oznur Tastan, Ogun Adebali, Tuvan Gezer", abstract: 'Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract '}
- - {title: "Lorem ipsum article title dolor sit amet", authors: "Oznur Tastan, Ogun Adebali, Tuvan Gezer", abstract: 'Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract '}
- - {title: "Lorem ipsum article title dolor sit amet", authors: "Oznur Tastan, Ogun Adebali, Tuvan Gezer", abstract: 'Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract '}
+ - {title: "1 - Lorem ipsum article title dolor sit amet", authors: "Oznur Tastan, Ogun Adebali, Tuvan Gezer", abstract: 'Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract '}
+ - {title: "2 - Lorem ipsum article title dolor sit amet", authors: "Oznur Tastan, Ogun Adebali, Tuvan Gezer", abstract: 'Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract '}
+ - {title: "3 - Lorem ipsum article title dolor sit amet", authors: "Oznur Tastan, Ogun Adebali, Tuvan Gezer", abstract: 'Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract '}
+ - {title: "4 - Lorem ipsum article title dolor sit amet", authors: "Oznur Tastan, Ogun Adebali, Tuvan Gezer", abstract: 'Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract '}
+ - {title: "5 - Lorem ipsum article title dolor sit amet", authors: "Oznur Tastan, Ogun Adebali, Tuvan Gezer", abstract: 'Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract '}
+ - {title: "6 - Lorem ipsum article title dolor sit amet", authors: "Oznur Tastan, Ogun Adebali, Tuvan Gezer", abstract: 'Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract '}
 
 #directionDetailsWideCards:
 # -
