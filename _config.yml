@@ -36,7 +36,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
+c4pUrl: "https://easychair.org/conferences/?conf=hibit2020"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -47,9 +47,9 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Submit Abstract"}
+ - {link: "https://easychair.org/conferences/?conf=hibit2020", text: "Submit Abstract"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Submit Abstract"}
+ - {link: "https://easychair.org/conferences/?conf=hibit2020", text: "Submit Abstract"}
 
 # Hero Block
 heroImage: "ist2.jpg"
@@ -58,7 +58,7 @@ eventDate: "3-5 September, 2020"
 typeoutTextValues: '""'
 typeoutFallback: ""
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Submit Abstract"}
+ - {link: "https://easychair.org/conferences/?conf=hibit2020", text: "Submit Abstract"}
  - {permalink: "/#tickets", text: "Register"}
 
 # About Block

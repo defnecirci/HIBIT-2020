@@ -45,7 +45,7 @@ Our team prepared set of fields in but if your research you want to share is not
 * Health Informatics - Precision Medicine
 
 
-#### Please submit your abstracts [here](http://bit.ly/dfua-c4p).
+#### Please submit your abstracts [here](https://easychair.org/conferences/?conf=hibit2020).
 __Deadline__ July 15, 2020
 
 __Please note:__ Your submission will be subject to peer review and therefore there is no guarantee that a submission will be put onto the conference agenda!<br/>
