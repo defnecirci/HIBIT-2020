@@ -36,8 +36,8 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://easychair.org/conferences/?conf=hibit2020"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "mailto:hibit2020@gmail.com"
+c4sponsorsUrl: "mailto:hibit2020@gmail.com"
 
 
 # Navigation
@@ -79,7 +79,7 @@ statisticBlock:
  - {count: "100", prefix: "~", specialCharacter: "", info: "posters", detail: ""}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: ""
 
 # Keynote Speakers Block
 keynoteSpeakersImage: "bridge.jpg"
@@ -119,7 +119,7 @@ venueFeatures: ["In the Sabanci University campus", "Within walking distance to 
 tweetsFeedImage: "handsup.jpg"
 tweetsFeedTitle: "Stay tuned"
 twitterHashTag: "HIBIT2020"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterFeed: "https://twitter.com/HIBIT2020"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -257,7 +257,7 @@ footerBlocks:
  
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: ""
 blogCommentsEnabled: true
 discusShortName: "devfestua"
 
