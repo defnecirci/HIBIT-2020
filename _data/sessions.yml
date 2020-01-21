@@ -1,16 +1,48 @@
 -
   id: 307
+  title: "???"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+
+-
+  id: 1
+  title: "Welcome & Opening Speech"
+  place: "SGM"
+  service: true
+-
+  id: 100
+  title: "Keynote Lecture"
+  place: "SGM"
+  service: true
+-
+  id: 200
+  title: "Invited Talk"
+  place: "SGM"
+  service: true
+-
+  id: 300
+  title: "Selected Talk"
+  place: "SGM"
+  service: true
+-
+  id: 400
   title: "Coffee Break"
   place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
 -
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
+  id: 600
+  title: "Poster Session"
+  place: "SGM Hall"
   service: true
 -
-  id: 001
+  id: 500
+  title: "Lunch"
+  place: "Cafeteria"
+  service: true
+-
+  id: 002
   title: "Material design: Visual style and imagery"
   description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
   subtype: workshop
