@@ -283,7 +283,7 @@ logisticsMapMobileCenterCoordinates: "40.8928831, 29.3748667"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
-directionDetailsImage: "su2.jpg"
+directionDetailsImage: "su22.jpg"
 directionDetailsTitle: "Coming to the campus"
 directionDetailsCards:
  - {title: "From Istanbul Airport", information: 'Istanbul Airport is far away from the campus and city centres. There is a shuttle service from Ist. Airport to various central locations. Information is listed <a href="https://hava.ist/en" target="_blank">here.</a> If you are coming directly to campus, the most hassle free way is taking the shuttle to Sabiha Gokcen Airport and taking a taxi ride.'}
@@ -294,6 +294,7 @@ directionDetailsCards:
 
 # Poster list Block
 posterListTitle: "Posters at HIBIT 2020"
+posterImage: "sgm_hall1.jpg"
 posterCards:
  - {title: "1 - Lorem ipsum article title dolor sit amet", authors: "Oznur Tastan, Ogun Adebali, Tuvan Gezer", abstract: 'Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract '}
  - {title: "2 - Lorem ipsum article title dolor sit amet", authors: "Oznur Tastan, Ogun Adebali, Tuvan Gezer", abstract: 'Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract '}
