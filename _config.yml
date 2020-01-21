@@ -44,7 +44,8 @@ c4sponsorsUrl: "mailto:hibit2020@gmail.com"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+#  - {permalink: "/speakers/", text: "Speakers"}
+#  - {permalink: "/posters/", text: "Posters"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
  - {link: "https://easychair.org/conferences/?conf=hibit2020", text: "Submit Abstract"}
@@ -282,7 +283,7 @@ logisticsMapMobileCenterCoordinates: "40.8928831, 29.3748667"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
-directionDetailsImage: "ist2.jpg"
+directionDetailsImage: "su2.jpg"
 directionDetailsTitle: "Coming to the campus"
 directionDetailsCards:
  - {title: "From Istanbul Airport", information: 'Istanbul Airport is far away from the campus and city centres. There is a shuttle service from Ist. Airport to various central locations. Information is listed <a href="https://hava.ist/en" target="_blank">here.</a> If you are coming directly to campus, the most hassle free way is taking the shuttle to Sabiha Gokcen Airport and taking a taxi ride.'}
