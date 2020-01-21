@@ -118,6 +118,7 @@ venueFeatures: ["In the Sabanci University campus", "Within walking distance to 
 # Tweets Feed Block
 tweetsFeedImage: "handsup.jpg"
 tweetsFeedTitle: "Stay tuned"
+tweetsFollowTitle: "Follow us"
 twitterHashTag: "HIBIT2020"
 twitterFeed: "https://twitter.com/HIBIT2020"
 
