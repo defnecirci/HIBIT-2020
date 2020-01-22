@@ -144,7 +144,7 @@ ticketsOffers:
   priceCurrency: "TL"
   ticketsNumber: "100"
   ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "#registration"
   buyButtonText: "Register Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2019-12-01T10:00"
@@ -155,7 +155,7 @@ ticketsOffers:
   priceCurrency: "TL"
   ticketsNumber: "100"
   ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "#registration"
   buyButtonText: "Register Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2019-12-01T10:00"
@@ -166,7 +166,7 @@ ticketsOffers:
   priceCurrency: "TL"
   ticketsNumber: "100"
   ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "#registration"
   buyButtonText: "Register Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2019-12-01T10:00"
@@ -177,7 +177,7 @@ ticketsOffers:
   priceCurrency: "TL"
   ticketsNumber: "100"
   ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "#registration"
   buyButtonText: "Register Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2019-12-01T10:00"
@@ -192,7 +192,7 @@ academics:
   priceCurrency: "TL"
   ticketsNumber: "100"
   ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "#registration"
   buyButtonText: "Register Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2019-12-01T10:00"
@@ -203,7 +203,7 @@ academics:
   priceCurrency: "TL"
   ticketsNumber: "100"
   ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "#registration"
   buyButtonText: "Register Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2019-12-01T10:00"
@@ -214,7 +214,7 @@ academics:
   priceCurrency: "TL"
   ticketsNumber: "100"
   ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "#registration"
   buyButtonText: "Register Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2019-12-01T10:00"
@@ -225,7 +225,7 @@ academics:
   priceCurrency: "TL"
   ticketsNumber: "20"
   ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "#registration"
   buyButtonText: "Register Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2019-12-01T10:00"
@@ -241,7 +241,7 @@ corporate:
   priceCurrency: "TL"
   ticketsNumber: "100"
   ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "#registration"
   buyButtonText: "Register Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2019-12-01T10:00"
