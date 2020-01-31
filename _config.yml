@@ -149,6 +149,8 @@ ticketsOffers:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2019-12-01T10:00"
   validThrough: "2020-06-30T23:59"
+  soldOut: false
+  soldOutText: ""
  -
   name: "Student Early Bird Registration + Dormitory Accommodation"
   price: "600"
@@ -160,6 +162,8 @@ ticketsOffers:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2019-12-01T10:00"
   validThrough: "2020-06-30T23:59"
+  soldOut: false
+  soldOutText: ""
  -
   name: "Student Late Registration"
   price: "450"
@@ -171,6 +175,8 @@ ticketsOffers:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2020-07-01T00:00"
   validThrough: "2020-08-15T23:59"
+  soldOut: true
+  soldOutText: ""
  -
   name: "Student Late Registration + Dormitory Accommodation"
   price: "750"
@@ -182,6 +188,8 @@ ticketsOffers:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2020-07-01T00:00"
   validThrough: "2020-08-15T23:59"
+  soldOut: true
+  soldOutText: ""
 
 academicsTitle: "Academic Registration"
 academicsInfo: "Registration grants access to conference section, coffee brakes, lunch and gala dinner. On-campus accommodation at student dormitories is included with the registration + accommodation option. Academics will have an option to choose single or double room."
@@ -197,6 +205,8 @@ academics:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2019-12-01T10:00"
   validThrough: "2020-06-30T23:59"
+  soldOut: false
+  soldOutText: ""
  -
   name: "Academic Early Bird Registration + Dormitory Accommodation"
   price: "800"
@@ -208,6 +218,8 @@ academics:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2019-12-01T10:00"
   validThrough: "2020-06-30T23:59"
+  soldOut: false
+  soldOutText: ""
  -
   name: "Academic Late Registration"
   price: "650"
@@ -219,6 +231,8 @@ academics:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2020-07-01T00:00"
   validThrough: "2020-08-15T23:59"
+  soldOut: true
+  soldOutText: ""
  -
   name: "Academic Late Registration + Dormitory Accommodation"
   price: "950"
@@ -230,7 +244,8 @@ academics:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2020-07-01T00:00"
   validThrough: "2020-08-15T23:59"
-
+  soldOut: true
+  soldOutText: ""
 
 corporateTitle: "Corporate Registration"
 corporateInfo: "Registration grants access to conference section, coffee brakes, lunch and gala dinner. Accommodation os NOT included in the registration fee."
@@ -246,6 +261,8 @@ corporate:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2019-12-01T10:00"
   validThrough: "2020-08-15T23:59"
+  soldOut: false
+  soldOutText: ""
 
 
 # Footer
