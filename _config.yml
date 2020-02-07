@@ -320,6 +320,55 @@ posterCards:
  - {title: "5 - Lorem ipsum article title dolor sit amet", authors: "Oznur Tastan, Ogun Adebali, Tuvan Gezer", abstract: 'Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract '}
  - {title: "6 - Lorem ipsum article title dolor sit amet", authors: "Oznur Tastan, Ogun Adebali, Tuvan Gezer", abstract: 'Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract '}
 
+
+
+
+Chairs:
+ - {name: "Ogün Adebali", institute: "Sabancı University", website: " "}
+ - {name: "Oznur Taştan", institute: "Sabancı University", website: " "}
+
+OrganizationCommittee:
+ - {name: "Ogün Adebali", institute: "Sabancı University", website: " "}
+ - {name: "Oznur Taştan", institute: "Sabancı University", website: " "}
+ - {name: "Stuart James Lucas", institute: "Sabancı University", website: " "}
+ - {name: "Ercüment Çiçek", institute: "Bilkent University", website: " "}
+
+
+# Program Committee
+
+PCmembers:
+ - {name: "Alper Kucukural", institute: "University of Massachusetts Medical School", website: " "}
+ - {name: "Ferhat Ay", institute: "La Jolla Institute", website: " "}
+ - {name: "Can Alkan", institute: "Bilkent University", website: " "}
+ - {name: "Burçak Otlu", institute: "UC San Diego", website: " "}
+ - {name: "João Rodrigues", institute: "Stanford University", website: " "}
+ - {name: "Ozlen Konu", institute: "Bilkent University", website: " "}
+ - {name: "Burcu Bakır-Güngör", institute: "Abdullah Gül University", website: " "}
+ - {name: "Tuğba Süzek", institute: "Muğla Sıtkı Koçman University", website: " "}
+ - {name: "Maria Martin", institute: "EMBL-EBI", website: " "}
+ - {name: "Abdullah Kahraman", institute: "University Hospital Zurich", website: " "}
+ - {name: "Tunca Doğan", institute: "Hacettepe University", website: " "}
+ - {name: "Panagiotis Kastritis", institute: "Martin Luther University Halle-Wittenberg", website: " "}
+ - {name: "Zerrin Isik", institute: "Dokuz Eylül University", website: " "}
+ - {name: "Emre Güney", institute: "Pompeu Fabra University", website: " "}
+ - {name: "Athanasia Pavlopoulou", institute: "Izmir Biomedicine and Genome Center", website: " "}
+ - {name: "Tolga Can", institute: "Middle East Technical University", website: " "}
+ - {name: "Aybar Acar", institute: "Middle East Technical University", website: " "}
+ - {name: "Osman Uğur Sezerman", institute: "Acıbadem University", website: " "}
+ - {name: "Tamer Kahveci", institute: "University of Florida", website: " "}
+ - {name: "Mehmet Koyuturk", institute: "Case Western Reserve University", website: " "}
+ - {name: "Barış Süzek", institute: "Muğla Sıtkı Koçman University", website: " "}
+ - {name: "Nurcan Tuncbağ", institute: "Middle East Technical University", website: " "}
+ - {name: "Umit Çatalyürek", institute: "Georgia Institute of Technology", website: " "}
+ - {name: "Volkan Atalay", institute: "Middle East Technical University", website: " "}
+ - {name: "Tuğba Arzu Özal İldeni̇z", institute: "Acıbadem University", website: " "}
+ - {name: "Cigdem Gündüz-Demir", institute: "Bilkent University", website: " "}
+
+StudentOrganizationCommittee:
+ - {name: "Halil Tuvan Gezer", institute: "Sabancı University", website: " "}
+ - {name: "Begüm Özemek Güner", institute: "Max Planck Institute for Molecular Genetics", website: " "}
+
+
 #directionDetailsWideCards:
 # -
 #  title: "Questions?"

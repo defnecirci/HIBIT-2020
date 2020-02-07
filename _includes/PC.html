@@ -1,0 +1,60 @@
+<!-- Begin Direction Details-->
+<section id="schedule" class="schedule">
+    <div class="content-wrapper">
+        <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">    
+                <h4 class="schedule-table-heading">Conference Co-chairs</h4>         
+                {% assign sorted_members = site.Chairs | sort: 'name' %}        
+                {% for member in sorted_members %}
+                <div class="member-header-slot col-md-6 flexbox-item-height">
+                        <h5 class="member-header-title"><b>{{ member.name }}</b></h5>
+                </div>
+                <div class="member-header-slot col-md-6 flexbox-item-height">
+                        <h5 class="member-header-title">{{ member.institute }}</h5>
+                </div>
+                {% endfor %} 
+        </div>
+
+        <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">    
+                <h4 class="schedule-table-heading">Organization Committee</h4> 
+                {% assign sorted_members = site.OrganizationCommittee | sort: 'name' %}        
+                {% for member in sorted_members %}
+                <div class="member-header-slot col-md-6 flexbox-item-height">
+                        <h5 class="member-header-title"><b>{{ member.name }}</b></h5>
+                </div>
+                <div class="member-header-slot col-md-6 flexbox-item-height">
+                        <h5 class="member-header-title">{{ member.institute }}</h5>
+                </div>
+                {% endfor %} 
+        </div>
+
+        <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">    
+            <h4 class="schedule-table-heading">Program Committee</h4>         
+                {% assign sorted_members = site.PCmembers | sort: 'name' %}        
+                {% for member in sorted_members %}
+                <div class="member-header-slot col-md-6 flexbox-item-height">
+                        <h5 class="member-header-title"><b>{{ member.name }}</b></h5>
+                </div>
+                <div class="member-header-slot col-md-6 flexbox-item-height">
+                        <h5 class="member-header-title">{{ member.institute }}</h5>
+                </div>
+                {% endfor %}
+                
+        </div>
+    
+        <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">    
+                <h4 class="schedule-table-heading">Student Organization Committee</h4>         
+                {% assign sorted_members = site.StudentOrganizationCommittee | sort: 'name' %}        
+                {% for member in sorted_members %}
+                    <div class="member-header-slot col-md-6 flexbox-item-height">
+                            <h5 class="member-header-title"><b>{{ member.name }}</b></h5>
+                    </div>
+                    <div class="member-header-slot col-md-6 flexbox-item-height">
+                            <h5 class="member-header-title">{{ member.institute }}</h5>
+                    </div>
+                    {% endfor %}
+                    
+        </div>
+
+    </div>
+</section>
+<!-- End Direction Details -->

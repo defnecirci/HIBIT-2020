@@ -137,6 +137,28 @@ $small-label-width: 80px;
         }
     }
 }
+
+.member-header-title {
+    @extend .slot-title;
+}
+.member-header-slot {
+    padding: 10px 15px 10px;
+    text-align: left;
+    transition: $base-transition;
+    border-right: 0;
+    border-bottom: $schedule-border;
+    user-select: none;
+    @media (max-width: 767px) {
+        border-top: 0;
+        border-left: 0;
+    }
+    &:first-child {
+        border-left: $schedule-border;
+        @media (max-width: 767px) {
+            border-top: 0;
+        }
+    }
+}
 .slot {
     @extend .track-header-slot;
     padding: 0;
