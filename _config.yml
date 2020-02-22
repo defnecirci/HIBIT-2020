@@ -44,8 +44,7 @@ c4sponsorsUrl: "mailto:hibit2020@gmail.com"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Schedule"}
-#  - {permalink: "/speakers/", text: "Speakers"}
-#  - {permalink: "/posters/", text: "Posters"}
+ - {permalink: "/#tickets", text: "Registration"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
  - {link: "https://easychair.org/conferences/?conf=hibit2020", text: "Submit Abstract"}
