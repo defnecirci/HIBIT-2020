@@ -52,7 +52,7 @@ rightNavigationButtons:
  - {link: "https://easychair.org/conferences/?conf=hibit2020", text: "Submit Abstract"}
 
 # Hero Block
-heroImage: "ist2.jpg"
+heroImage: "ist2_n.jpg"
 heroTitle: "HIBIT <typeout> 2020"
 eventDate: "3-5 September, 2020"
 typeoutTextValues: '""'
@@ -69,7 +69,7 @@ aboutBlock:
 #  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
-statisticBlockImage: "library.jpg"
+statisticBlockImage: "library_n.jpg"
 statisticBlock:
  - {count: "300", prefix: "~", specialCharacter: "", info: "expected attendees", detail: "from everywhere"}
  - {count: "3", prefix: "", specialCharacter: "", info: "days", detail: "of solid science"}
@@ -82,7 +82,7 @@ statisticBlock:
 latestNewsTitle: ""
 
 # Keynote Speakers Block
-keynoteSpeakersImage: "bridge.jpg"
+keynoteSpeakersImage: "bridge_n.jpg"
 keynoteSpeakersCount: 4
 keynoteSpeakersTitle: "Keynote speakers"
 keynoteSpeakersButtonText: "See all speakers"
@@ -106,12 +106,12 @@ mapMobileCenterCoordinates: "40.8928831, 29.3748667"
 # Venue Block
 venueBlockTitle: "Venue"
 venueBigImage: "sgm_in1.jpg"
-venueSmallImage1: "sgm_in2.jpg"
-venueSmallImage2: "sgm_in3.jpg"
-venueSmallImage3: "sgm_hall1.jpg"
-venueSmallImage4: "sgm_hall2.jpg"
+venueSmallImage1: "sgm_in2_n.jpg"
+venueSmallImage2: "sgm_in3_n.jpg"
+venueSmallImage3: "sgm_hall1_n.jpg"
+venueSmallImage4: "sgm_hall2_n.jpg"
 venueSmallImage5: "sgm_out1.jpg"
-venueSmallImage6: "sgm_out2.jpg"
+venueSmallImage6: "sgm_out2_n.jpg"
 venueTitle: "Sabancı University Performing Arts Center (SGM)"
 venueFeatures: ["In the Sabanci University campus", "Within walking distance to cafeteria and dormitories", "Large capacity"]
 
@@ -310,7 +310,7 @@ directionDetailsCards:
 
 # Poster list Block
 posterListTitle: "Posters at HIBIT 2020"
-posterImage: "sgm_hall1.jpg"
+posterImage: "sgm_hall1_n.jpg"
 posterCards:
  - {title: "1 - Lorem ipsum article title dolor sit amet", authors: "Oznur Tastan, Ogun Adebali, Tuvan Gezer", abstract: 'Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract '}
  - {title: "2 - Lorem ipsum article title dolor sit amet", authors: "Oznur Tastan, Ogun Adebali, Tuvan Gezer", abstract: 'Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract Paper abstract '}
