@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Poster Preparation"
-date:   2020-01-01 09:00:00
+date:   2020-01-02 09:00:00
 isStaticPost: false
 ---
 
