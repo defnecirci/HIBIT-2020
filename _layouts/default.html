@@ -89,10 +89,31 @@ layout: compress
         {% endfor %}
                 ];
         keynoteSpeakers.sort(function () { return 0.5 - Math.random() });
+      
+        var emboSpeakers = [
+            {% for speaker in site.data.speakers %}
+        {% if speaker.embo %}
+        { name: "{{ speaker.name }} {{ speaker.surname }}", company: "{{ speaker.company }}", image: "{{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }}" } {% if forloop.index != forloop.length %}, {% endif %}
+        {% endif %}
+        {% endfor %}
+                ];
+        emboSpeakers.sort(function () { return 0.5 - Math.random() });
+        
+        var invitedSpeakers = [
+            {% for speaker in site.data.speakers %}
+        {% if speaker.invited %}
+        { name: "{{ speaker.name }} {{ speaker.surname }}", company: "{{ speaker.company }}", image: "{{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }}" } {% if forloop.index != forloop.length %}, {% endif %}
+        {% endif %}
+        {% endfor %}
+                ];
+        invitedSpeakers.sort(function () { return 0.5 - Math.random() });
+        
+        
         if (keynoteSpeakers.length > 0) {
             var animationDelay = 1500,
                 count = Math.min({{ site.keynoteSpeakersCount }}, keynoteSpeakers.length),
         colWidth = 12 / count;
+        
         for (i = 0; i < count; i++) {
             var clearfix = '<div class="clearfix visible-xs"></div>';
             if ((i) % 2 != 0) {
@@ -102,6 +123,39 @@ layout: compress
             animationDelay -= 500;
         }
                 }
+
+
+        if (emboSpeakers.length > 0) {
+            var animationDelay = 1500,
+                count = Math.min({{ site.emboSpeakersCount }}, emboSpeakers.length),
+        colWidth = 12 / count;
+        
+        for (i = 0; i < count; i++) {
+            var clearfix = '<div class="clearfix visible-xs"></div>';
+            if ((i) % 2 != 0) {
+                clearfix = ""
+            }
+            $('#embo-speaker-title').after('<div class="col-md-' + colWidth + ' col-xs-6 keynote-speakers-item animated hiding" data-animation="fadeInUp" data-delay="' + animationDelay + '"><div class="keynote-speaker"><div class="flow-img img-circle keynote-speaker-img" style="background-image: url(' + emboSpeakers[i].image + ')"></div><div class="name">' + emboSpeakers[i].name + '</div><div class="sub">' + emboSpeakers[i].company + '</div></div></div>' + clearfix);
+            animationDelay -= 500;
+        }
+                }
+
+        if (invitedSpeakers.length > 0) {
+            var animationDelay = 1500,
+                count = Math.min({{ site.invitedSpeakersCount }}, invitedSpeakers.length),
+        colWidth = 12 / count;
+        
+        for (i = 0; i < count; i++) {
+            var clearfix = '<div class="clearfix visible-xs"></div>';
+            if ((i) % 2 != 0) {
+                clearfix = ""
+            }
+            $('#invited-speaker-title').after('<div class="col-md-' + colWidth + ' col-xs-6 keynote-speakers-item animated hiding" data-animation="fadeInUp" data-delay="' + animationDelay + '"><div class="keynote-speaker"><div class="flow-img img-circle keynote-speaker-img" style="background-image: url(' + invitedSpeakers[i].image + ')"></div><div class="name">' + invitedSpeakers[i].name + '</div><div class="sub">' + invitedSpeakers[i].company + '</div></div></div>' + clearfix);
+            animationDelay -= 500;
+        }
+                }
+
+
             });
         {% elsif page.permalink == '/logistics/' %}
         var googleMaps = 'logistics',

@@ -88,6 +88,20 @@ keynoteSpeakersCount: 4
 keynoteSpeakersTitle: "Keynote speakers"
 keynoteSpeakersButtonText: "See all speakers"
 
+# embo Speakers Block
+emboSpeakersImage: "bridge_n.jpg"
+emboSpeakersCount: 2
+emboSpeakersTitle: "EMBO YIP Lecturers"
+emboSpeakersButtonText: "See all speakers"
+
+
+# invited Speakers Block
+invitedSpeakersImage: "bridge_n.jpg"
+invitedSpeakersCount: 2
+invitedSpeakersTitle: "Invited speakers"
+invitedSpeakersButtonText: "See all speakers"
+
+
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "Sabancı University Performing Arts Center (SGM)"

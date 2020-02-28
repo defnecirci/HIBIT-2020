@@ -7,6 +7,8 @@
   bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
   thumbnailUrl: DawidOstrowski_n.jpg
   keynote: false
+  embo: false
+  invited: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
@@ -18,6 +20,8 @@
   bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc" target="_blank">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf" target="_blank">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
   thumbnailUrl: DmytroDanylyk_n.jpg
   keynote: false
+  embo: false
+  invited: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
@@ -31,6 +35,8 @@
   bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
   thumbnailUrl: MateuszHerych_n.jpg
   keynote: false
+  embo: false
+  invited: false
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
@@ -39,13 +45,31 @@
     - {name: "twitter", link: "https://twitter.com/mherych"}
 - 
   id: 66
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
+  name: "Ugur"
+  surname: "Sezerman"
+  company: "Acibadem University"
+  title: ""
   bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur_n.jpg
+  thumbnailUrl: sezerman.jpg
   keynote: false
+  embo: false
+  invited: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
+    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+- 
+  id: 67
+  name: "Ercument"
+  surname: "Ovali"
+  company: "Acibadem University"
+  title: ""
+  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
+  thumbnailUrl: ovali.jpg
+  keynote: false
+  embo: false
+  invited: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
@@ -53,13 +77,31 @@
     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 - 
   id: 77
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
+  name: "Fran"
+  surname: "supek"
+  company: "IRB Barcelona"
+  title: ""
   bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov_n.jpg
+  thumbnailUrl: supek.jpg
   keynote: false
+  embo: true
+  invited: false
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 78
+  name: "Ana"
+  surname: "Cvejic"
+  company: "University of Cambridge"
+  title: ""
+  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
+  thumbnailUrl: cvejic.jpg
+  keynote: false
+  embo: true
+  invited: false
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
@@ -74,6 +116,8 @@
   bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
   thumbnailUrl: thornton_n.jpg
   keynote: true
+  embo: false
+  invited: false
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
@@ -88,6 +132,8 @@
   bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
   thumbnailUrl: Jouline_n.jpg
   keynote: true
+  embo: false
+  invited: false
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
@@ -102,6 +148,8 @@
   bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
   thumbnailUrl: Keles_n.jpg
   keynote: true
+  embo: false
+  invited: false
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
