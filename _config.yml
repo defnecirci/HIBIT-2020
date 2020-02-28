@@ -72,12 +72,12 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "library_n.jpg"
 statisticBlock:
- - {count: "300", prefix: "~", specialCharacter: "", info: "expected attendees", detail: "from everywhere"}
+ - {count: "300", prefix: "", specialCharacter: "", info: "expected attendees", detail: "from everywhere"}
  - {count: "3", prefix: "", specialCharacter: "", info: "days", detail: "of solid science"}
  - {count: "3", prefix: "", specialCharacter: "", info: "keynote speakers", detail: ""}
  - {count: "4", prefix: "", specialCharacter: "", info: "invited speakers", detail: ""}
- - {count: "14", prefix: "~", specialCharacter: "", info: "selected talks", detail: ""}
- - {count: "100", prefix: "~", specialCharacter: "", info: "posters", detail: ""}
+ - {count: "14", prefix: "", specialCharacter: "", info: "selected talks", detail: ""}
+ - {count: "100", prefix: "", specialCharacter: "", info: "posters", detail: ""}
 
 # Latest News Block
 latestNewsTitle: ""
