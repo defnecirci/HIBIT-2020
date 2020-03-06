@@ -1,49 +1,4 @@
 - 
-  id: 33
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski_n.jpg
-  keynote: false
-  embo: false
-  invited: false
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
-  id: 44
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc" target="_blank">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf" target="_blank">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk_n.jpg
-  keynote: false
-  embo: false
-  invited: false
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 55
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych_n.jpg
-  keynote: false
-  embo: false
-  invited: false
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
-- 
   id: 66
   name: "Ugur"
   surname: "Sezerman"
@@ -55,7 +10,7 @@
   embo: false
   invited: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "Invited Speaker", title: "", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
@@ -71,7 +26,7 @@
   embo: false
   invited: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "Invited Speaker", title: "", url: ""}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
@@ -87,7 +42,7 @@
   embo: true
   invited: false
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "EMBO YIP", title: "", url: ""}
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
@@ -103,7 +58,7 @@
   embo: true
   invited: false
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "EMBO YIP", title: "", url: ""}
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
@@ -119,7 +74,7 @@
   embo: false
   invited: false
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "Keynote", title: "", url: ""}
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
@@ -129,13 +84,15 @@
   surname: "Jouline"
   company: "Ohio State University"
   title: "Professor"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
+  bio: "Igor B. Jouline is the Rod Sharp Endowed Professor in the Department of Microbiology and a Co-Director of Computational Health and Life Sciences at The Ohio State University Translational Data Analytics Institute. His research focuses on the evolution of genes, including those implicated in various diseases. Dr. Jouline was a Wellcome Trust Fellow at the University of Oxford (United Kingdom) and a Distinguished Staff Member at the US Department of Energy Oak Ridge National Laboratory. He served as a Chair of the International Odysseus Jury (Belgian Research Foundation) and several review panels at the National Institutes of Health. He was elected to the American Academy of Microbiology in 2017 and became a Fellow of the American Association for the Advancement of Science in 2019. Dr. Jouline received his BS in biology and MS in biophysics from Saratov State University (Russia), and his PhD in microbiology from St. Petersburg State University (Russia)."
+  title: "How novel sensors arise in bacteria"
+  abstract: "Bacteria possess various receptors that monitor changes in the environment and help adjusting cellular functions accordingly. The number of receptors in bacterial genomes varies significantly and different bacterial species seem to evolve unique receptors. Where do these novel receptors come from? Here, I will consider several basic mechanisms for their birth, using bacterial chemoreceptors as a model. In the first example, I will show how gene duplication serves as a foundation for evolving novel ligand specificities, while preserving conserved signaling determinants. In the second example, I will show how two proteins come together to form a novel receptor in a plug-and-play fashion. In the third example, I will demonstrate how a single alpha-helix insertion transformed a classical ligand-binding domain into a redox sensor. Finally, these three examples will be placed into a wider concept of molecular evolution of sensing and signaling in bacteria."
   thumbnailUrl: Jouline_n.jpg
   keynote: true
   embo: false
   invited: false
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "Keynote", title: "", url: ""}
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
@@ -151,7 +108,7 @@
   embo: false
   invited: false
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "Keynote", title: "", url: ""}
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
