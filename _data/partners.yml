@@ -38,5 +38,5 @@
   group: ""
   elements: 
     - {name: "Sabanci University", description: "Sabanci University", link: "https://sabanciuniv.edu/en", imageUrl: "sabanci.svg"}
-    - {name: "INZVA", description: "INZVA", link: "https://inzva.com/", imageUrl: "inzva.svg"}
-    - {name: "EMBO", description: "European Molecular Biology Organization", link: "https://embo.org", imageUrl: "embo.svg"}
+    # - {name: "INZVA", description: "INZVA", link: "https://inzva.com/", imageUrl: "inzva.svg"}
+    # - {name: "EMBO", description: "European Molecular Biology Organization", link: "https://embo.org", imageUrl: "embo.svg"}
