@@ -164,8 +164,8 @@ ticketsOffers:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2019-12-01T10:00"
   validThrough: "2020-06-30T23:59"
-  soldOut: false
-  soldOutText: ""
+  soldOut: true
+  soldOutText: "Stay tuned for instructions"
  -
   name: "Student Early Bird Registration + Dormitory Accommodation"
   price: "?"
@@ -177,8 +177,8 @@ ticketsOffers:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2019-12-01T10:00"
   validThrough: "2020-06-30T23:59"
-  soldOut: false
-  soldOutText: ""
+  soldOut: true
+  soldOutText: "Stay tuned for instructions"
  -
   name: "Student Late Registration"
   price: "?"
@@ -220,8 +220,8 @@ academics:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2019-12-01T10:00"
   validThrough: "2020-06-30T23:59"
-  soldOut: false
-  soldOutText: ""
+  soldOut: true
+  soldOutText: "Stay tuned for instructions"
  -
   name: "Academic Early Bird Registration + Dormitory Accommodation"
   price: "?"
@@ -233,8 +233,8 @@ academics:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2019-12-01T10:00"
   validThrough: "2020-06-30T23:59"
-  soldOut: false
-  soldOutText: ""
+  soldOut: true
+  soldOutText: "Stay tuned for instructions"
  -
   name: "Academic Late Registration"
   price: "?"
@@ -276,8 +276,8 @@ corporate:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2019-12-01T10:00"
   validThrough: "2020-08-15T23:59"
-  soldOut: false
-  soldOutText: ""
+  soldOut: true
+  soldOutText: "Stay tuned for instructions"
 
 
 # Footer
