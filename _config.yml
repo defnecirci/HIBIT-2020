@@ -55,7 +55,8 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "ist2_n.jpg"
 heroTitle: "HIBIT <typeout> 2020"
-eventDate: "3-5 September, 2020"
+# eventDate: "3-5 September, 2020"
+eventDate: "HIBIT goes online! - Stay tuned"
 typeoutTextValues: '""'
 typeoutFallback: ""
 heroButtons:
@@ -154,7 +155,7 @@ ticketsInfo: "Registration grants access to conference section, coffee brakes, l
 ticketsOffers:
  -
   name: "Student Early Bird Registration"
-  price: "300"
+  price: "?"
   priceCurrency: "TL"
   ticketsNumber: "100"
   ribbon: "-5%"
@@ -167,7 +168,7 @@ ticketsOffers:
   soldOutText: ""
  -
   name: "Student Early Bird Registration + Dormitory Accommodation"
-  price: "600"
+  price: "?"
   priceCurrency: "TL"
   ticketsNumber: "100"
   ribbon: "-5%"
@@ -180,7 +181,7 @@ ticketsOffers:
   soldOutText: ""
  -
   name: "Student Late Registration"
-  price: "450"
+  price: "?"
   priceCurrency: "TL"
   ticketsNumber: "100"
   ribbon: "-5%"
@@ -193,7 +194,7 @@ ticketsOffers:
   soldOutText: ""
  -
   name: "Student Late Registration + Dormitory Accommodation"
-  price: "750"
+  price: "?"
   priceCurrency: "TL"
   ticketsNumber: "100"
   ribbon: "-5%"
@@ -210,7 +211,7 @@ academicsInfo: "Registration grants access to conference section, coffee brakes,
 academics:
  -
   name: "Academic Early Bird Registration"
-  price: "500"
+  price: "?"
   priceCurrency: "TL"
   ticketsNumber: "100"
   ribbon: "-5%"
@@ -223,7 +224,7 @@ academics:
   soldOutText: ""
  -
   name: "Academic Early Bird Registration + Dormitory Accommodation"
-  price: "800"
+  price: "?"
   priceCurrency: "TL"
   ticketsNumber: "100"
   ribbon: "-5%"
@@ -236,7 +237,7 @@ academics:
   soldOutText: ""
  -
   name: "Academic Late Registration"
-  price: "650"
+  price: "?"
   priceCurrency: "TL"
   ticketsNumber: "100"
   ribbon: "-5%"
@@ -249,7 +250,7 @@ academics:
   soldOutText: ""
  -
   name: "Academic Late Registration + Dormitory Accommodation"
-  price: "950"
+  price: "?"
   priceCurrency: "TL"
   ticketsNumber: "20"
   ribbon: "-5%"
@@ -266,7 +267,7 @@ corporateInfo: "Registration grants access to conference section, coffee brakes,
 corporate:
  -
   name: "Corporate Registration"
-  price: "800"
+  price: "?"
   priceCurrency: "TL"
   ticketsNumber: "100"
   ribbon: "-5%"
