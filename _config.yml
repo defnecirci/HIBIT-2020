@@ -150,134 +150,134 @@ subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b05
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Student Registration"
-ticketsInfo: "Registration grants access to conference section, coffee brakes, lunch and gala dinner. On-campus accommodation at student dormitories is included with the [registration + accommodation] fee. The rooms are shared by two students. Roommate arrangements can be made upon request."
+ticketsTitle: "Registration"
+# ticketsInfo: "Registration grants access to conference section, coffee brakes, lunch and gala dinner. On-campus accommodation at student dormitories is included with the [registration + accommodation] fee. The rooms are shared by two students. Roommate arrangements can be made upon request."
 ticketsOffers:
  -
-  name: "Student Early Bird Registration"
-  price: "?"
-  priceCurrency: "TL"
+  name: "Registration"
+  price: "0"
+  priceCurrency: "₺"
   ticketsNumber: "100"
   ribbon: "-5%"
   buyButtonLink: "/registration-student"
   buyButtonText: "Register Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2019-12-01T10:00"
-  validThrough: "2020-06-30T23:59"
+  validThrough: "2020-10-15T23:59"
   soldOut: true
   soldOutText: "Stay tuned for instructions"
- -
-  name: "Student Early Bird Registration + Dormitory Accommodation"
-  price: "?"
-  priceCurrency: "TL"
-  ticketsNumber: "100"
-  ribbon: "-5%"
-  buyButtonLink: "/registration-student-dorm"
-  buyButtonText: "Register Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2019-12-01T10:00"
-  validThrough: "2020-06-30T23:59"
-  soldOut: true
-  soldOutText: "Stay tuned for instructions"
- -
-  name: "Student Late Registration"
-  price: "?"
-  priceCurrency: "TL"
-  ticketsNumber: "100"
-  ribbon: "-5%"
-  buyButtonLink: "/registration-student-late"
-  buyButtonText: "Register Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2020-07-01T00:00"
-  validThrough: "2020-08-15T23:59"
-  soldOut: true
-  soldOutText: ""
- -
-  name: "Student Late Registration + Dormitory Accommodation"
-  price: "?"
-  priceCurrency: "TL"
-  ticketsNumber: "100"
-  ribbon: "-5%"
-  buyButtonLink: "/registration-student-dorm-late"
-  buyButtonText: "Register Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2020-07-01T00:00"
-  validThrough: "2020-08-15T23:59"
-  soldOut: true
-  soldOutText: ""
+#  -
+#   name: "Student Registration + Dormitory Accommodation"
+#   price: "0"
+#   priceCurrency: "₺"
+#   ticketsNumber: "100"
+#   ribbon: "-5%"
+#   buyButtonLink: "/registration-student-dorm"
+#   buyButtonText: "Register Now"
+#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#   validFrom: "2019-12-01T10:00"
+#   validThrough: "2020-06-30T23:59"
+#   soldOut: true
+#   soldOutText: "Stay tuned for instructions"
+#  -
+#   name: "Student Late Registration"
+#   price: "0"
+#   priceCurrency: "₺"
+#   ticketsNumber: "100"
+#   ribbon: "-5%"
+#   buyButtonLink: "/registration-student-late"
+#   buyButtonText: "Register Now"
+#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#   validFrom: "2020-07-01T00:00"
+#   validThrough: "2020-08-15T23:59"
+#   soldOut: true
+#   soldOutText: ""
+#  -
+#   name: "Student Late Registration + Dormitory Accommodation"
+#   price: "0"
+#   priceCurrency: "₺"
+#   ticketsNumber: "100"
+#   ribbon: "-5%"
+#   buyButtonLink: "/registration-student-dorm-late"
+#   buyButtonText: "Register Now"
+#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#   validFrom: "2020-07-01T00:00"
+#   validThrough: "2020-08-15T23:59"
+#   soldOut: true
+#   soldOutText: ""
 
-academicsTitle: "Academic Registration"
-academicsInfo: "Registration grants access to conference section, coffee brakes, lunch and gala dinner. On-campus accommodation at student dormitories is included with the registration + accommodation option. Academics will have an option to choose single or double room."
-academics:
- -
-  name: "Academic Early Bird Registration"
-  price: "?"
-  priceCurrency: "TL"
-  ticketsNumber: "100"
-  ribbon: "-5%"
-  buyButtonLink: "/registration-academic"
-  buyButtonText: "Register Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2019-12-01T10:00"
-  validThrough: "2020-06-30T23:59"
-  soldOut: true
-  soldOutText: "Stay tuned for instructions"
- -
-  name: "Academic Early Bird Registration + Dormitory Accommodation"
-  price: "?"
-  priceCurrency: "TL"
-  ticketsNumber: "100"
-  ribbon: "-5%"
-  buyButtonLink: "/registration-academic-dorm"
-  buyButtonText: "Register Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2019-12-01T10:00"
-  validThrough: "2020-06-30T23:59"
-  soldOut: true
-  soldOutText: "Stay tuned for instructions"
- -
-  name: "Academic Late Registration"
-  price: "?"
-  priceCurrency: "TL"
-  ticketsNumber: "100"
-  ribbon: "-5%"
-  buyButtonLink: "/registration-academic-late"
-  buyButtonText: "Register Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2020-07-01T00:00"
-  validThrough: "2020-08-15T23:59"
-  soldOut: true
-  soldOutText: ""
- -
-  name: "Academic Late Registration + Dormitory Accommodation"
-  price: "?"
-  priceCurrency: "TL"
-  ticketsNumber: "20"
-  ribbon: "-5%"
-  buyButtonLink: "/registration-academic-dorm-late"
-  buyButtonText: "Register Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2020-07-01T00:00"
-  validThrough: "2020-08-15T23:59"
-  soldOut: true
-  soldOutText: ""
+# academicsTitle: "Academic Registration"
+# academicsInfo: "Registration grants access to conference section, coffee brakes, lunch and gala dinner. On-campus accommodation at student dormitories is included with the registration + accommodation option. Academics will have an option to choose single or double room."
+# academics:
+#  -
+#   name: "Academic Registration"
+#   price: "0"
+#   priceCurrency: "₺"
+#   ticketsNumber: "100"
+#   ribbon: "-5%"
+#   buyButtonLink: "/registration-academic"
+#   buyButtonText: "Register Now"
+#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#   validFrom: "2019-12-01T10:00"
+#   validThrough: "2020-06-30T23:59"
+#   soldOut: true
+#   soldOutText: "Stay tuned for instructions"
+#  -
+#   name: "Academic Registration + Dormitory Accommodation"
+#   price: "0"
+#   priceCurrency: "₺"
+#   ticketsNumber: "100"
+#   ribbon: "-5%"
+#   buyButtonLink: "/registration-academic-dorm"
+#   buyButtonText: "Register Now"
+#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#   validFrom: "2019-12-01T10:00"
+#   validThrough: "2020-06-30T23:59"
+#   soldOut: true
+#   soldOutText: "Stay tuned for instructions"
+#  -
+#   name: "Academic Late Registration"
+#   price: "0"
+#   priceCurrency: "₺"
+#   ticketsNumber: "100"
+#   ribbon: "-5%"
+#   buyButtonLink: "/registration-academic-late"
+#   buyButtonText: "Register Now"
+#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#   validFrom: "2020-07-01T00:00"
+#   validThrough: "2020-08-15T23:59"
+#   soldOut: true
+#   soldOutText: ""
+#  -
+#   name: "Academic Late Registration + Dormitory Accommodation"
+#   price: "0"
+#   priceCurrency: "₺"
+#   ticketsNumber: "20"
+#   ribbon: "-5%"
+#   buyButtonLink: "/registration-academic-dorm-late"
+#   buyButtonText: "Register Now"
+#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#   validFrom: "2020-07-01T00:00"
+#   validThrough: "2020-08-15T23:59"
+#   soldOut: true
+#   soldOutText: ""
 
-corporateTitle: "Corporate Registration"
-corporateInfo: "Registration grants access to conference section, coffee brakes, lunch and gala dinner. Accommodation os NOT included in the registration fee."
-corporate:
- -
-  name: "Corporate Registration"
-  price: "?"
-  priceCurrency: "TL"
-  ticketsNumber: "100"
-  ribbon: "-5%"
-  buyButtonLink: "/registration-corporate"
-  buyButtonText: "Register Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2019-12-01T10:00"
-  validThrough: "2020-08-15T23:59"
-  soldOut: true
-  soldOutText: "Stay tuned for instructions"
+# corporateTitle: "Corporate Registration"
+# corporateInfo: "Registration grants access to conference section, coffee brakes, lunch and gala dinner. Accommodation os NOT included in the registration fee."
+# corporate:
+#  -
+#   name: "Corporate Registration"
+#   price: "0"
+#   priceCurrency: "₺"
+#   ticketsNumber: "100"
+#   ribbon: "-5%"
+#   buyButtonLink: "/registration-corporate"
+#   buyButtonText: "Register Now"
+#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#   validFrom: "2019-12-01T10:00"
+#   validThrough: "2020-08-15T23:59"
+#   soldOut: true
+#   soldOutText: "Stay tuned for instructions"
 
 
 # Footer

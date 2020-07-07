@@ -31,6 +31,7 @@
     overflow: hidden;
     text-align: left;
     transition: $base-transition;
+    filter: grayscale(100%);
 }
 .venue-big-elem {
     height: 610px;
