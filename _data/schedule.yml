@@ -1,6 +1,6 @@
 - 
-  date: "2020-09-03"
-  dateReadable: "September 3"
+  date: "2020-10-22"
+  dateReadable: "October 22"
   tracks: 
     - {title: ".", color: "#90be4e"}
   timeslots:
@@ -90,8 +90,8 @@
     	sessionIds: [600]
     }
 - 
-  date: "2020-09-04"
-  dateReadable: "September 4"
+  date: "2020-10-23"
+  dateReadable: "October 23"
   tracks: 
     - {title: ".", color: "#90be4e"}
   timeslots:

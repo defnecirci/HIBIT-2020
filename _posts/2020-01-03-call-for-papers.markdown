@@ -5,7 +5,7 @@ date:   2020-01-03 09:00:00
 isStaticPost: false
 ---
 
-HIBIT 2020 will be held 3-4th of September in Istanbul. If you want to be part of this great event as a presenter you knocked at the good door.
+HIBIT 2020 will be held on 22-23rd of October. If you want to be part of this great event as a presenter you knocked at the good door.
 
 ### Poster Presenters – who should present a poster at the HIBIT Conference?
 
@@ -48,7 +48,7 @@ Our team prepared set of fields in but if your research you want to share is not
 
 ### Please submit your abstracts [here](https://easychair.org/conferences/?conf=hibit2020).
 
-__Deadline__ July 15, 2020
+__Deadline__ August 15, 2020
 
 __Please note:__ Your submission will be subject to peer review and therefore there is no guarantee that a submission will be put onto the conference agenda!<br/>
 

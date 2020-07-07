@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/#tickets", text: "Registration"}
- - {permalink: "/logistics/", text: "Logistics"}
+#  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/committees/", text: "Committees"}
 bottomNavigationLinks:
  - {link: "https://easychair.org/conferences/?conf=hibit2020", text: "Submit Abstract"}
@@ -54,9 +54,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "ist2_n.jpg"
-heroTitle: "HIBIT <typeout> 2020"
+heroTitle: "HIBIT <typeout> 2020 | Virtual"
 # eventDate: "3-5 September, 2020"
-eventDate: "HIBIT goes virtual! - Stay tuned"
+eventDate: "22-23 October, 2020"
 typeoutTextValues: '""'
 typeoutFallback: ""
 heroButtons:
@@ -98,7 +98,7 @@ emboSpeakersButtonText: "See all speakers"
 
 # invited Speakers Block
 invitedSpeakersImage: "bridge_n.jpg"
-invitedSpeakersCount: 2
+invitedSpeakersCount: 3
 invitedSpeakersTitle: "Invited speakers"
 invitedSpeakersButtonText: "See all speakers"
 
