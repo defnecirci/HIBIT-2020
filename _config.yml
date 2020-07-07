@@ -157,14 +157,14 @@ ticketsOffers:
   name: "Registration"
   price: "0"
   priceCurrency: "₺"
-  ticketsNumber: "100"
+  ticketsNumber: "300"
   ribbon: "-5%"
-  buyButtonLink: "/registration-student"
+  buyButtonLink: "/registration"
   buyButtonText: "Register Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2019-12-01T10:00"
   validThrough: "2020-10-15T23:59"
-  soldOut: true
+  soldOut: false
   soldOutText: "Stay tuned for instructions"
 #  -
 #   name: "Student Registration + Dormitory Accommodation"
