@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Call for Abstracts"
+title:  "Call for Abstracts by August 15th"
 date:   2020-01-03 09:00:00
 isStaticPost: false
 ---
