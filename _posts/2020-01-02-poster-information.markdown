@@ -14,6 +14,6 @@ All selected abstracts will be printed in the conference abstract book and assig
 
 Posters should be prepared at A0 size or similar (841 mm x 1189 mm) and in portrait orientation.
 
-Poster presenters are expected to record a short video of their presentation. The video should not exceed 4 minutes. Each poster presenter will be assigned to one of the 4 time slots of the poster sessions. In their assigned time slot, poster presenters should be in a conference room (link will be provided) and wait for participants to join to discuss their posters. Participants are expected to watch the poster video of their poster of interest and join the associated room to ask questions and discuss the research.
+<!-- Poster presenters are expected to record a short video of their presentation. The video should not exceed 4 minutes. Each poster presenter will be assigned to one of the 4 time slots of the poster sessions. In their assigned time slot, poster presenters should be in a conference room (link will be provided) and wait for participants to join to discuss their posters. Participants are expected to watch the poster video of their poster of interest and join the associated room to ask questions and discuss the research. -->
 
 
