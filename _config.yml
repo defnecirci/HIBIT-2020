@@ -359,6 +359,22 @@ OrganizationCommittee:
 PCmembers:
  - {name: "Alper Kucukural", institute: "University of Massachusetts Medical School", website: " "}
  - {name: "Ferhat Ay", institute: "La Jolla Institute", website: " "}
+ - {name: "Ali Çakmak", institute: "İstanbul Şehir University", website: " "}
+ - {name: "Arzucan Özgur", institute: "Bogazici University", website: " "}
+ - {name: "Aslı Suner", institute: "Ege University", website: " "}
+ - {name: "Atilla Gürsoy", institute: "Koç University", website: " "}
+ - {name: "Cesim Erten", institute: "Antalya University", website: " "}
+ - {name: "Evren Koban", institute: "Ege University", website: " "}
+ - {name: "Ezgi Karaca", institute: "Dokuz Eylul University", website: " "}
+ - {name: "Gökhan Karakülah", institute: "Dokuz Eylul University", website: " "}
+ - {name: "Hilal Kazan", institute: "Antalya University", website: " "}
+ - {name: "Jens Allmer", institute: "Izmir Institute of Technology", website: " "}
+ - {name: "Oğuz Dicle", institute: "Dokuz Eylul University", website: " "}
+ - {name: "Serap Erkek", institute: "Izmir Biomedicine and Genome Center", website: " "}
+ - {name: "Türkan Haliloğlu", institute: "Bogazici University", website: " "}
+ - {name: "Uğur Sezerman", institute: "Acibadem University", website: " "}
+ - {name: "Yavuz Oktay", institute: "Dokuz Eylul University", website: " "}
+ - {name: "Yeşim Aydın Son", institute: "Middle East Technical University", website: " "}
  - {name: "Can Alkan", institute: "Bilkent University", website: " "}
  - {name: "Burçak Otlu", institute: "UC San Diego", website: " "}
  - {name: "João Rodrigues", institute: "Stanford University", website: " "}
