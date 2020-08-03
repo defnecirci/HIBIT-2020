@@ -52,7 +52,7 @@ __Deadline__ August 15, 2020
 
 __Please note:__ Your submission will be subject to peer review and therefore there is no guarantee that a submission will be put onto the conference agenda!<br/>
 
-The program committee picks the most interesting talk proposals and informs the selected submitters until August 15, 2020.<br/>
+The program committee picks the most interesting talk proposals and informs the selected submitters until October 1st, 2020.<br/>
 
 ### Any questions? 
 
