@@ -50,6 +50,8 @@ Our team prepared set of fields in but if your research you want to share is not
 
 __Deadline__ August 15, 2020
 
+__Word limit:__ 200-300 words
+
 __Please note:__ Your submission will be subject to peer review and therefore there is no guarantee that a submission will be put onto the conference agenda!<br/>
 
 The program committee picks the most interesting talk proposals and informs the selected submitters until October 1st, 2020.<br/>
