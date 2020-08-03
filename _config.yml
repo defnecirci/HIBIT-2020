@@ -105,16 +105,19 @@ invitedSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Sabancı University Performing Arts Center (SGM)"
+# eventLocationName: "Sabancı University Performing Arts Center (SGM)"
+eventLocationName: "Virtual"
 eventLocationLink: ""
-eventStreetAddress: "Universite Cad. No 27"
-eventAddressLocality: "Tuzla"
+# eventStreetAddress: "Universite Cad. No 27"
+eventStreetAddress: ""
+eventAddressLocality: ""
+# eventAddressLocality: "Tuzla"
 eventAddressLocalityRegion: "Istanbul"
 eventPostalCode: "34956"
 eventAddressCountry: "Turkey"
-eventStartTime: "2020-09-03T09:00"
+eventStartTime: "2020-10-22T09:00"
 eventDoorTime: "09:00"
-eventEndTime: "2020-09-05T17:00"
+eventEndTime: "2020-10-23T17:00"
 eventPlaceCoordinates: "40.8928831, 29.3748667"
 mapCenterCoordinates: "40.8928831, 29.3748667"
 mapMobileCenterCoordinates: "40.8928831, 29.3748667"
@@ -128,8 +131,9 @@ venueSmallImage3: "sgm_hall1_n.jpg"
 venueSmallImage4: "sgm_hall2_n.jpg"
 venueSmallImage5: "sgm_out1.jpg"
 venueSmallImage6: "sgm_out2_n.jpg"
-venueTitle: "Sabancı University Performing Arts Center (SGM)"
-venueFeatures: ["In the Sabanci University campus", "Within walking distance to cafeteria and dormitories", "Large capacity"]
+venueTitle: "Sabancı University Performing Arts Center (SGM) - Now Virtual"
+# venueFeatures: ["In the Sabanci University campus", "Within walking distance to cafeteria and dormitories", "Large capacity"]
+venueFeatures: []
 
 # Tweets Feed Block
 tweetsFeedImage: "handsup_n.jpg"
