@@ -7,7 +7,6 @@
                 <div class="pull-left">
                     <!-- <h3>{{ site.locationBlockTitle }}</h3> -->
                     <h3>Virtual Conference</h3>
-                    <strike>
                         <ul>
                         {% if site.eventLocationName %}<li>{{ site.eventLocationName }}</li>{% endif %}
                         <li>{{ site.eventStreetAddress }}, {{ site.eventAddressLocality }}</li>
@@ -19,7 +18,6 @@
                             <time>{{ endTime[1] }}</time>
                         </li>
                     </ul>
-                </strike>
                 </div>
                 <a href="{{ site.baseurl | append: '/logistics/#find-way' }}" class="pull-right">
                     <svg class="icon icon-direction" viewBox="0 0 32 32">
