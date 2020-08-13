@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Call for Abstracts by August 15th"
+title:  "Call for Abstracts by ~~August 15th~~ September 1"
 date:   2020-01-03 09:00:00
 isStaticPost: false
 ---
@@ -48,7 +48,7 @@ Our team prepared set of fields in but if your research you want to share is not
 
 ### Please submit your abstracts [here](https://easychair.org/conferences/?conf=hibit2020).
 
-__Deadline__ August 15, 2020
+__Deadline__ ~~August 15~~ September 1, 2020
 
 __Word limit:__ 200-300 words
 
