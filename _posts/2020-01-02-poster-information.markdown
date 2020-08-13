@@ -8,7 +8,7 @@ isStaticPost: false
 
 # HIBIT 2020 – Poster information
 
-Contributors wishing to present their work at HIBIT 2020 as a poster presentation are invited to submit an abstract through the submission system on the conference website. All abstracts will be reviewed by the scientific committee, and the authors of those selected for presentation will be informed by **31 August 2020**.
+Contributors wishing to present their work at HIBIT 2020 as a poster presentation are invited to submit an abstract through the submission system on the conference website. All abstracts will be reviewed by the scientific committee, and the authors of those selected for presentation will be informed by **October 1st 2020**.
 
 All selected abstracts will be printed in the conference abstract book and assigned a video conference room during the poster session. 
 
