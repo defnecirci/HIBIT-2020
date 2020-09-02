@@ -6,41 +6,177 @@
   description: "The best time to talk with speakers and attendees"
 
 -
-  id: 1
+  id: 111
   title: "Welcome & Opening Speech"
   place: "SGM"
   service: true
 -
-  id: 100
-  title: "Keynote Lecture"
+  id: 112
+  title: "Invited Speaker: Ezgi Karaca"
   place: "SGM"
+  description: "Title here?"
+  speakers: [67]
   service: true
 -
-  id: 200
-  title: "Invited Talk"
-  place: "SGM"
-  service: true
--
-  id: 300
+  id: 113
   title: "Selected Talk"
   place: "SGM"
   service: true
 -
-  id: 400
-  title: "Coffee Break"
-  place: "Hall"
+  id: 114
+  title: "Selected Talk"
+  place: "SGM"
   service: true
-  description: "The best time to talk with speakers and attendees"
 -
-  id: 600
+  id: 115
+  title: "Selected Talk"
+  place: "SGM"
+  service: true
+-
+  id: 116
+  title: "Selected Talk"
+  place: "SGM"
+  service: true
+-
+  id: 117
+  title: "Keynote Speaker: Janet Thornton"
+  place: "SGM"
+  speakers: [1]
+  service: true
+-
+  id: 118
+  title: "Lunch Break"
+  place: "SGM"
+  service: true
+
+
+-
+  id: 121
+  title: "Invited Speaker: Fran Supek"
+  place: "SGM"
+  description: "Title here?"
+  speakers: [77]
+  service: true
+-
+  id: 122
+  title: "Invited Speaker: Ana Cvejic"
+  place: "SGM"
+  description: "Title here?"
+  speakers: [78]
+  service: true
+-
+  id: 123
+  title: "Selected Talk"
+  place: "SGM"
+  service: true
+-
+  id: 124
+  title: "Selected Talk"
+  place: "SGM"
+  service: true
+-
+  id: 125
   title: "Poster Session"
-  place: "SGM Hall"
+  place: "SGM"
   service: true
 -
-  id: 500
-  title: "Lunch"
-  place: "Cafeteria"
+  id: 126
+  title: "Keynote Speaker: Igor Jouline"
+  place: "SGM"
   service: true
+  speakers: [2]
+
+
+-
+  id: 211
+  title: "Announcments"
+  place: "SGM"
+  service: true
+-
+  id: 212
+  title: "Invited Speaker: Elif Karalar"
+  place: "SGM"
+  description: "Title here?"
+  service: true
+-
+  id: 213
+  title: "Selected Talk"
+  place: "SGM"
+  service: true
+-
+  id: 214
+  title: "Selected Talk"
+  place: "SGM"
+  service: true
+-
+  id: 215
+  title: "Coffee Break"
+  place: "SGM"
+  service: true
+-
+  id: 216
+  title: "Invited Speaker: Ugur Sezerman"
+  place: "SGM"
+  service: true
+  speakers: [66]
+-
+  id: 217
+  title: "Selected Talk"
+  place: "SGM"
+  service: true
+-
+  id: 218
+  title: "Selected Talk"
+  place: "SGM"
+  service: true
+-
+  id: 219
+  title: "Selected Talk"
+  place: "SGM"
+  service: true
+-
+  id: 220
+  title: "Lunch Break"
+  place: "SGM"
+  service: true
+
+
+
+-
+  id: 221
+  title: "Selected Talk"
+  place: "SGM"
+  service: true
+-
+  id: 222
+  title: "Selected Talk"
+  place: "SGM"
+  service: true
+-
+  id: 223
+  title: "Selected Talk"
+  place: "SGM"
+  service: true
+-
+  id: 224
+  title: "Poster Session"
+  place: "SGM"
+  service: true
+-
+  id: 225
+  title: "Keynote Speaker: Sunduz Keles"
+  place: "SGM"
+  service: true
+  speakers: [3]
+-
+  id: 226
+  title: "Closing Remarks"
+  place: "SGM"
+  service: true
+
+
+
+
 -
   id: 002
   title: "Material design: Visual style and imagery"
@@ -58,7 +194,7 @@
   speakers: [4, 5]
   language: en
   complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  presentation: "speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
@@ -68,7 +204,7 @@
   speakers: [4]
   language: en
   complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  presentation: "speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
   title: "Polymer: Interacting with Google Services using nothing but HTML"
@@ -77,7 +213,7 @@
   speakers: [6]
   language: uk
   complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  presentation: "speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
@@ -87,5 +223,5 @@
   speakers: [7]
   language: en
   complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  presentation: "speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"

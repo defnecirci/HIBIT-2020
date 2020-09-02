@@ -6,9 +6,9 @@
   title: "Android Developer"
   thumbnailUrl: DmytroDanylyk.jpg
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "google-plus", link: "//plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "//twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "//github.com/dmytrodanylyk"}
 - 
   id: 1
   name: "Vitaliy"
@@ -17,9 +17,9 @@
   title: "Team Lead, Unity 3D Developer"
   thumbnailUrl: VitaliyZasadnyy.jpg
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
+    - {name: "google-plus", link: "//google.com/+VitalikZasadnyy"}
+    - {name: "twitter", link: "//twitter.com/zasadnyy"}
+    - {name: "github", link: "//github.com/zasadnyy"}
     - {name: "site", link: "http://zasadnyy.com/"}
 - 
   id: 2
@@ -29,8 +29,8 @@
   title: "R&D Engineer"
   thumbnailUrl: OstapAndrusiv.jpg
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
+    - {name: "google-plus", link: "//google.com/+OstapAndrusiv"}
+    - {name: "twitter", link: "//twitter.com/p1f"}
     - {name: "site", link: "http://andrusiv.com/"}
 - 
   id: 3
@@ -40,5 +40,5 @@
   title: "Junior Software Engineer"
   thumbnailUrl: OlehZasadnyy.jpg
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "google-plus", link: "//google.com/+OlehZasadnyy"}
+    - {name: "github", link: "//github.com/ozasadnyy"}

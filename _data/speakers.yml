@@ -10,9 +10,9 @@
   embo: false
   invited: true
   ribbon:
-    - {abbr: "Invited Speaker", title: "", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "Invited Speaker", title: "", url: "developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
+    - {name: "google-plus", link: "plus.google.com/+RomanMazur/"}
     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 - 
   id: 67
@@ -26,9 +26,9 @@
   embo: false
   invited: true
   ribbon:
-    - {abbr: "Invited Speaker", title: "", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "Invited Speaker", title: "", url: "developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
+    - {name: "google-plus", link: "plus.google.com/+RomanMazur/"}
     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 
 - 
@@ -43,9 +43,9 @@
   embo: false
   invited: true
   ribbon:
-    - {abbr: "Invited Speaker", title: "", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "Invited Speaker", title: "", url: "developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
+    - {name: "google-plus", link: "plus.google.com/+RomanMazur/"}
     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 
 - 
@@ -62,7 +62,7 @@
   ribbon:
     - {abbr: "EMBO YIP", title: "", url: ""}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "google-plus", link: "google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
 
 - 
@@ -79,7 +79,7 @@
   ribbon:
     - {abbr: "EMBO YIP", title: "", url: ""}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "google-plus", link: "google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
 - 
   id: 1
@@ -95,7 +95,7 @@
   ribbon:
     - {abbr: "Keynote", title: "", url: ""}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "google-plus", link: "google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
 - 
   id: 2
@@ -113,10 +113,10 @@
   ribbon:
     - {abbr: "Keynote", title: "", url: ""}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "google-plus", link: "google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
 - 
-  id: 2
+  id: 3
   name: "Sunduz"
   surname: "Keles"
   company: "University of Wisconsin-Madison"
@@ -129,5 +129,5 @@
   ribbon:
     - {abbr: "Keynote", title: "", url: ""}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "google-plus", link: "google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
