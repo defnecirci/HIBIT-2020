@@ -1,184 +1,150 @@
--
-  id: 307
+- id: 307
   title: "???"
   place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
 
--
-  id: 111
+- id: 111
   title: "Welcome & Opening Speech"
   place: "SGM"
   service: true
--
-  id: 112
+- id: 112
   title: "Invited Speaker: Ezgi Karaca"
   place: "SGM"
   description: "Title here?"
   speakers: [67]
   service: true
--
-  id: 113
+- id: 113
   title: "Selected Talk"
   place: "SGM"
   service: true
--
-  id: 114
+- id: 114
   title: "Selected Talk"
   place: "SGM"
   service: true
--
-  id: 115
+- id: 115
   title: "Selected Talk"
   place: "SGM"
   service: true
--
-  id: 116
+- id: 116
   title: "Selected Talk"
   place: "SGM"
   service: true
--
-  id: 117
+- id: 117
   title: "Keynote Speaker: Janet Thornton"
   place: "SGM"
   speakers: [1]
   service: true
--
-  id: 118
+- id: 118
   title: "Lunch Break"
   place: "SGM"
   service: true
 
-
--
-  id: 121
+- id: 121
   title: "Invited Speaker: Fran Supek"
   place: "SGM"
   description: "Title here?"
   speakers: [77]
   service: true
--
-  id: 122
+- id: 122
   title: "Invited Speaker: Ana Cvejic"
   place: "SGM"
   description: "Title here?"
   speakers: [78]
   service: true
--
-  id: 123
+- id: 123
   title: "Selected Talk"
   place: "SGM"
   service: true
--
-  id: 124
+- id: 124
   title: "Selected Talk"
   place: "SGM"
   service: true
--
-  id: 125
+- id: 125
   title: "Poster Session"
   place: "SGM"
   service: true
--
-  id: 126
+- id: 126
   title: "Keynote Speaker: Igor Jouline"
   place: "SGM"
   service: true
   speakers: [2]
 
-
--
-  id: 211
+- id: 211
   title: "Announcments"
   place: "SGM"
   service: true
--
-  id: 212
+- id: 212
   title: "Invited Speaker: Elif Karalar"
   place: "SGM"
   description: "Title here?"
   service: true
--
-  id: 213
+- id: 213
   title: "Selected Talk"
   place: "SGM"
   service: true
--
-  id: 214
+- id: 214
   title: "Selected Talk"
   place: "SGM"
   service: true
--
-  id: 215
+- id: 215
   title: "Coffee Break"
   place: "SGM"
   service: true
--
-  id: 216
+- id: 216
   title: "Invited Speaker: Ugur Sezerman"
   place: "SGM"
   service: true
   speakers: [66]
--
-  id: 217
+- id: 217
   title: "Selected Talk"
   place: "SGM"
   service: true
--
-  id: 218
+- id: 218
   title: "Selected Talk"
   place: "SGM"
   service: true
--
-  id: 219
+- id: 219
   title: "Selected Talk"
   place: "SGM"
   service: true
--
-  id: 220
+- id: 220
   title: "Lunch Break"
   place: "SGM"
   service: true
 
-
-
--
-  id: 221
+- id: 221
   title: "Selected Talk"
   place: "SGM"
   service: true
--
-  id: 222
+- id: 222
   title: "Selected Talk"
   place: "SGM"
   service: true
--
-  id: 223
+- id: 223
   title: "Selected Talk"
   place: "SGM"
   service: true
--
-  id: 224
+- id: 224
   title: "Poster Session"
   place: "SGM"
   service: true
--
-  id: 225
+- id: 225
   title: "Keynote Speaker: Sunduz Keles"
   place: "SGM"
   service: true
   speakers: [3]
--
-  id: 226
+- id: 226
   title: "Closing Remarks"
   place: "SGM"
   service: true
 
+- id: 500
+  title: "Student Symposium"
+  place: "SGM"
+  service: true
 
-
-
--
-  id: 002
+- id: 002
   title: "Material design: Visual style and imagery"
   description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
   subtype: workshop
@@ -186,27 +152,24 @@
   language: en
   complexity: "Intermediate"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 002
+- id: 002
   title: "Building Cloud-powered wearable Apps"
   description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
   subtype: presentation
   speakers: [4, 5]
   language: en
-  complexity: "Intermediate" 
+  complexity: "Intermediate"
   presentation: "speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 003
+- id: 003
   title: "Android L Animation"
   description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
   subtype: presentation
   speakers: [4]
   language: en
-  complexity: "Intermediate" 
+  complexity: "Intermediate"
   presentation: "speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
--
-  id: 004
+- id: 004
   title: "Polymer: Interacting with Google Services using nothing but HTML"
   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
   subtype: keynote
@@ -215,8 +178,7 @@
   complexity: "Beginner"
   presentation: "speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 005
+- id: 005
   title: "Test: Interacting with Google Services using nothing but HTML"
   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
   subtype: keynote
