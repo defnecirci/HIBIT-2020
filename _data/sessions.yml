@@ -6,142 +6,142 @@
 
 - id: 111
   title: "Welcome & Opening Speech"
-  place: "SGM"
+  place: "online"
   service: true
 - id: 112
   title: "Invited Speaker: Ezgi Karaca"
-  place: "SGM"
+  place: "online"
   description: "Title here?"
   speakers: [67]
   service: true
 - id: 113
   title: "Selected Talk"
-  place: "SGM"
+  place: "online"
   service: true
 - id: 114
   title: "Selected Talk"
-  place: "SGM"
+  place: "online"
   service: true
 - id: 115
   title: "Selected Talk"
-  place: "SGM"
+  place: "online"
   service: true
 - id: 116
   title: "Selected Talk"
-  place: "SGM"
+  place: "online"
   service: true
 - id: 117
   title: "Keynote Speaker: Janet Thornton"
-  place: "SGM"
+  place: "online"
   speakers: [1]
   service: true
 - id: 118
   title: "Lunch Break"
-  place: "SGM"
+  place: "online"
   service: true
 
 - id: 121
   title: "Invited Speaker: Fran Supek"
-  place: "SGM"
+  place: "online"
   description: "Title here?"
   speakers: [77]
   service: true
 - id: 122
   title: "Invited Speaker: Ana Cvejic"
-  place: "SGM"
+  place: "online"
   description: "Title here?"
   speakers: [78]
   service: true
 - id: 123
   title: "Selected Talk"
-  place: "SGM"
+  place: "online"
   service: true
 - id: 124
   title: "Selected Talk"
-  place: "SGM"
+  place: "online"
   service: true
 - id: 125
   title: "Poster Session"
-  place: "SGM"
+  place: "online"
   service: true
 - id: 126
   title: "Keynote Speaker: Igor Jouline"
-  place: "SGM"
+  place: "online"
   service: true
   speakers: [2]
 
 - id: 211
-  title: "Announcments"
-  place: "SGM"
+  title: "Announcements"
+  place: "online"
   service: true
 - id: 212
   title: "Invited Speaker: Elif Karalar"
-  place: "SGM"
+  place: "online"
   description: "Title here?"
   service: true
 - id: 213
   title: "Selected Talk"
-  place: "SGM"
+  place: "online"
   service: true
 - id: 214
   title: "Selected Talk"
-  place: "SGM"
+  place: "online"
   service: true
 - id: 215
   title: "Coffee Break"
-  place: "SGM"
+  place: "online"
   service: true
 - id: 216
   title: "Invited Speaker: Ugur Sezerman"
-  place: "SGM"
+  place: "online"
   service: true
   speakers: [66]
 - id: 217
   title: "Selected Talk"
-  place: "SGM"
+  place: "online"
   service: true
 - id: 218
   title: "Selected Talk"
-  place: "SGM"
+  place: "online"
   service: true
 - id: 219
   title: "Selected Talk"
-  place: "SGM"
+  place: "online"
   service: true
 - id: 220
   title: "Lunch Break"
-  place: "SGM"
+  place: "online"
   service: true
 
 - id: 221
   title: "Selected Talk"
-  place: "SGM"
+  place: "online"
   service: true
 - id: 222
   title: "Selected Talk"
-  place: "SGM"
+  place: "online"
   service: true
 - id: 223
   title: "Selected Talk"
-  place: "SGM"
+  place: "online"
   service: true
 - id: 224
   title: "Poster Session"
-  place: "SGM"
+  place: "online"
   service: true
 - id: 225
   title: "Keynote Speaker: Sunduz Keles"
-  place: "SGM"
+  place: "online"
   service: true
   speakers: [3]
 - id: 226
   title: "Closing Remarks"
-  place: "SGM"
+  place: "online"
   service: true
 
 - id: 500
   title: "Student Symposium"
-  place: "SGM"
+  place: "online"
   service: true
 
 - id: 002
