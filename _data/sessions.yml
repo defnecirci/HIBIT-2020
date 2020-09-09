@@ -33,6 +33,7 @@
 - id: 117
   title: "Keynote Speaker: Janet Thornton"
   place: "online"
+  description: "Computational Enzymology: The structure, function and evolution of enzymes"
   speakers: [1]
   service: true
 - id: 118
@@ -43,13 +44,13 @@
 - id: 121
   title: "Invited Speaker: Fran Supek"
   place: "online"
-  description: "Title here?"
+  description: "Error-free and error-prone DNA repair shape mutation landscapes in human tumors"
   speakers: [77]
   service: true
 - id: 122
   title: "Invited Speaker: Ana Cvejic"
   place: "online"
-  description: "Title here?"
+  description: "Lineage tracing of human embryonic development and foetal haematopoiesis through somatic mutations"
   speakers: [78]
   service: true
 - id: 123
@@ -66,6 +67,7 @@
   service: true
 - id: 126
   title: "Keynote Speaker: Igor Jouline"
+  description: "How novel sensors arise in bacteria"
   place: "online"
   service: true
   speakers: [2]
@@ -77,7 +79,7 @@
 - id: 212
   title: "Invited Speaker: Elif Karalar"
   place: "online"
-  description: "Title here?"
+  description: "Proximity-based proteomics uncovers new mechanisms underlying rare developmental disorders"
   service: true
 - id: 213
   title: "Selected Talk"
@@ -132,6 +134,7 @@
 - id: 225
   title: "Keynote Speaker: Sunduz Keles"
   place: "online"
+  description: "Identifying effector genes of human GWAS variants by INFIMA"
   service: true
   speakers: [3]
 - id: 226
