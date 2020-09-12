@@ -1,4 +1,4 @@
-- 
+-
   id: 66
   name: "Ugur"
   surname: "Sezerman"
@@ -11,10 +11,10 @@
   invited: true
   ribbon:
     - {abbr: "Invited Speaker", title: "", url: "developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
+  social:
     - {name: "google-plus", link: "plus.google.com/+RomanMazur/"}
     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
-- 
+-
   id: 67
   name: "Ezgi"
   surname: "Karaca"
@@ -27,11 +27,11 @@
   invited: true
   ribbon:
     - {abbr: "Invited Speaker", title: "", url: "developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
+  social:
     - {name: "google-plus", link: "plus.google.com/+RomanMazur/"}
     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 
-- 
+-
   id: 68
   name: "Elif"
   surname: "Firat-Karalar"
@@ -44,11 +44,11 @@
   invited: true
   ribbon:
     - {abbr: "Invited Speaker", title: "", url: "developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
+  social:
     - {name: "google-plus", link: "plus.google.com/+RomanMazur/"}
     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 
-- 
+-
   id: 77
   name: "Fran"
   surname: "Supek"
@@ -61,11 +61,11 @@
   invited: false
   ribbon:
     - {abbr: "EMBO YIP", title: "", url: ""}
-  social: 
+  social:
     - {name: "google-plus", link: "google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
 
-- 
+-
   id: 78
   name: "Ana"
   surname: "Cvejic"
@@ -78,26 +78,25 @@
   invited: false
   ribbon:
     - {abbr: "EMBO YIP", title: "", url: ""}
-  social: 
+  social:
     - {name: "google-plus", link: "google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
-- 
+-
   id: 1
   name: "Janet"
   surname: "Thornton"
   company: "EMBL-EBI"
   title: "Director Emeritus of EMBL-EBI and Senior Scientist"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
+  bio: "Professor Dame Janet Thornton is Director Emeritus of the European Bioinformatics Institute and a senior scientist at the European Bioinformatics Institute (EBI). Her research focuses on understanding protein structure and function, and their effects on disease and ageing using highly interdisciplinary approaches. Thornton's work contributed significantly to understanding protein three-dimensional structure. She is the author of popular tools and databases that are used in academia as well as pharmaceutical companies. Professor Thornton is a Fellow of the Royal Society, a Fellow of the Academy of Medical Sciences, a member of EMBO and a foreign associate of the US National Academy of Sciences."
   thumbnailUrl: thornton_n.jpg
   keynote: true
   embo: false
   invited: false
   ribbon:
     - {abbr: "Keynote", title: "", url: ""}
-  social: 
-    - {name: "google-plus", link: "google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
-- 
+  social:
+    - {name: "EMBL-EBI", link: "https://www.ebi.ac.uk/about/people/janet-thornton"}
+-
   id: 2
   name: "Igor"
   surname: "Jouline"
@@ -112,10 +111,10 @@
   invited: false
   ribbon:
     - {abbr: "Keynote", title: "", url: ""}
-  social: 
+  social:
     - {name: "google-plus", link: "google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
-- 
+-
   id: 3
   name: "Sunduz"
   surname: "Keles"
@@ -128,6 +127,6 @@
   invited: false
   ribbon:
     - {abbr: "Keynote", title: "", url: ""}
-  social: 
+  social:
     - {name: "google-plus", link: "google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
